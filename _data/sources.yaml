@@ -1,169 +1,120 @@
-- id: 10.1016/j.jece.2026.122666
-  tags:
-    - disinfection byproducts
-    - spectroscopy
-- id: 10.1016/j.watres.2025.124160
-  tags:
-    - spectroscopy
-- id: 10.1016/j.coesh.2025.100632
-  tags:
-    - disinfection byproducts
-    - microplastics
-- id: 10.1038/s41467-025-60510-0
-  tags:
-    - natural organic matter
-- id: 10.1021/acs.est.5c01019
-  tags:
-    - natural organic matter
-- id: 10.1016/j.jece.2025.115916
-  tags:
-    - spectroscopy
-- id: 10.1016/j.chemosphere.2024.143949
-  tags:
-    - spectroscopy
-    - natural organic matter
-    - metals
-- id: 10.1016/j.envint.2024.108839
-  tags:
-    - microplastics
-- id: 10.1016/j.isprsjprs.2024.05.026
-  tags:
-    - disinfection byproducts
-    - natural organic matter
-- id: 10.1016/j.scitotenv.2024.172896
-  tags:
-    - electrochemistry
-    - membrane
-    - wastewater
-- id: 10.1016/j.jwpe.2024.105486
-  tags:
-    - wastewater
-- id: 10.1016/j.watres.2024.121367
-  tags:
-    - disinfection byproducts
-    - spectroscopy
-- id: 10.1016/j.jenvman.2024.120830
-  tags:
-    - environmental chemistry
-- id: 10.1016/j.jhazmat.2023.132873
-  tags:
-    - natural organic matter
-    - wastewater
-- id: 10.1007/978-3-031-63353-9_42
-  tags:
-    - sulfur
-    - spectroscopy
-    - PFAS
-- id: 10.1021/acsestwater.3c00536
-  tags:
-    - disinfection byproducts
-- id: 10.1016/j.chemosphere.2023.140352
-  tags:
-    - spectroscopy
-    - natural organic matter
-- id: 10.1016/j.watres.2023.120522
-  tags:
-    - spectroscopy
-    - natural organic matter
-- id: 10.1016/j.scitotenv.2023.164689
-  tags:
-    - sulfur
-- id: 10.1021/acsestwater.3c00296
-  tags:
-    - spectroscopy
-    - natural organic matter
-    - metals
-- id: 10.1021/acsestwater.3c00257
-  tags:
-    - sulfur
-- id: 10.1016/j.scitotenv.2023.163965
-  tags:
-    - membrane
-    - wastewater
-- id: 10.1016/j.watres.2023.119702
-  tags:
-    - landfill
-    - electrochemistry
-    - disinfection byproducts
-    - spectroscopy
-    - natural organic matter
-    - wastewater
-- id: 10.1016/j.memsci.2023.121443
-  tags:
-    - membrane
-- id: 10.1016/j.jhazmat.2022.130522
-  tags:
-    - landfill
-    - spectroscopy
-    - metals
-- id: 10.1016/j.scitotenv.2022.159800
-  tags:
-    - environmental chemistry
-- id: 10.1016/j.cscee.2022.100238
-  tags:
-    - wastewater
-    - water-based epidemiology
-- id: 10.1021/acs.est.2c06821
-  tags:
-    - sulfur
-- id: 10.3390/environsciproc2022021077
-  tags:
-    - wastewater
-- id: 10.1016/j.chemosphere.2022.135664
-  tags:
-    - electrochemistry
-- id: 10.1038/s41545-022-00184-z
-  tags:
-    - electrochemistry
-    - membrane
-    - wastewater
-- id: 10.1016/j.chemosphere.2022.134728
-  tags:
-    - electrochemistry
-- id: 10.1021/acs.est.2c00702
-  tags:
-    - sulfur
-    - disinfection byproducts
-- id: 10.1016/j.chemosphere.2021.133193
-  tags:
-    - sulfur
-    - natural organic matter
-    - wastewater
-- id: 10.1016/j.watres.2022.118093
-  tags:
-    - metals
-- id: 10.1007/698_2022_869
-  tags:
-    - membrane
-- id: 10.1016/j.cej.2021.131154
-  tags:
-    - natural organic matter
-- id: 10.1016/j.watres.2021.117379
-  tags:
-    - natural organic matter
-- id: 10.1016/j.jhazmat.2021.125580
-  tags:
-    - water-based epidemiology
-- id: 10.1016/j.chemosphere.2021.130043
-  tags:
-    - spectroscopy
-    - natural organic matter
-    - metals
-- id: 10.1371/journal.pone.0251664
-  tags:
-    - spectroscopy
-- id: 10.1016/j.chemosphere.2020.129241
-  tags:
-    - disinfection byproducts
-    - spectroscopy
-- id: 10.1016/j.scitotenv.2020.142911
-  tags:
-    - metals
-- id: 10.1080/15422119.2021.1887223
-  tags:
-    - membrane
-    - wastewater
-- id: 10.1007/s41207-021-00243-w
-  tags:
-    - metals
-    - water-based epidemiology
+# Korshin Lab publications (auto-cited from these DOIs). Newest first.
+
+- id: doi:10.1016/j.jece.2026.122666
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2213343726016404-ga1_lrg.jpg
+
+- id: doi:10.1016/j.watres.2025.124160
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004313542501067X-ga1_lrg.jpg
+
+- id: doi:10.1016/j.coesh.2025.100632
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468584425000418-ga1_lrg.jpg
+
+- id: doi:10.1038/s41467-025-60510-0
+
+- id: doi:10.1021/acs.est.5c01019
+
+- id: doi:10.1016/j.jece.2025.115916
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2213343725006128-ga1_lrg.jpg
+
+- id: doi:10.1016/j.chemosphere.2024.143949
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653524028571-ga1_lrg.jpg
+
+- id: doi:10.1016/j.envint.2024.108839
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0160412024004252-ga1_lrg.jpg
+
+- id: doi:10.1016/j.isprsjprs.2024.05.026
+
+- id: doi:10.1016/j.scitotenv.2024.172896
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969724030432-ga1_lrg.jpg
+
+- id: doi:10.1016/j.jwpe.2024.105486
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214714424007189-ga1_lrg.jpg
+
+- id: doi:10.1016/j.watres.2024.121367
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135424002690-ga1_lrg.jpg
+
+- id: doi:10.1016/j.jenvman.2024.120830
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0301479724008168-ga1_lrg.jpg
+
+- id: doi:10.1016/j.jhazmat.2023.132873
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S030438942302157X-ga1_lrg.jpg
+
+- id: doi:10.1007/978-3-031-63353-9_42
+
+- id: doi:10.1021/acsestwater.3c00536
+
+- id: doi:10.1016/j.chemosphere.2023.140352
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004565352302622X-ga1_lrg.jpg
+
+- id: doi:10.1016/j.watres.2023.120522
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135423009624-ga1_lrg.jpg
+
+- id: doi:10.1016/j.scitotenv.2023.164689
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969723033120-ga1_lrg.jpg
+
+- id: doi:10.1021/acsestwater.3c00296
+
+- id: doi:10.1021/acsestwater.3c00257
+
+- id: doi:10.1016/j.scitotenv.2023.163965
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004896972302586X-ga1_lrg.jpg
+
+- id: doi:10.1016/j.watres.2023.119702
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135423001379-ga1_lrg.jpg
+
+- id: doi:10.1016/j.memsci.2023.121443
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0376738823000996-ga1_lrg.jpg
+
+- id: doi:10.1016/j.jhazmat.2022.130522
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304389422023160-ga1_lrg.jpg
+
+- id: doi:10.1016/j.scitotenv.2022.159800
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722069005-ga1_lrg.jpg
+
+- id: doi:10.1016/j.cscee.2022.100238
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666016422000603-ga1_lrg.jpg
+
+- id: doi:10.1021/acs.est.2c06821
+
+- id: doi:10.3390/environsciproc2022021077
+
+- id: doi:10.1016/j.chemosphere.2022.135664
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653522021579-ga1_lrg.jpg
+
+- id: doi:10.1038/s41545-022-00184-z
+
+- id: doi:10.1016/j.chemosphere.2022.134728
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653522012218-ga1_lrg.jpg
+
+- id: doi:10.1021/acs.est.2c00702
+
+- id: doi:10.1016/j.chemosphere.2021.133193
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653521036651-ga1_lrg.jpg
+
+- id: doi:10.1016/j.watres.2022.118093
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135422000562-ga1_lrg.jpg
+
+- id: doi:10.1007/698_2022_869
+
+- id: doi:10.1016/j.cej.2021.131154
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1385894721027352-ga1_lrg.jpg
+
+- id: doi:10.1016/j.watres.2021.117379
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135421005777-fx1_lrg.jpg
+
+- id: doi:10.1016/j.jhazmat.2021.125580
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304389421005434-ga1_lrg.jpg
+
+- id: doi:10.1016/j.chemosphere.2021.130043
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653521005129-fx1_lrg.jpg
+
+- id: doi:10.1371/journal.pone.0251664
+
+- id: doi:10.1016/j.chemosphere.2020.129241
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004565352033438X-fx1_lrg.jpg
+
+- id: doi:10.1016/j.scitotenv.2020.142911
+
+- id: doi:10.1080/15422119.2021.1887223
+
+- id: doi:10.1007/s41207-021-00243-w

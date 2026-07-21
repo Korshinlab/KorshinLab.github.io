@@ -1,9 +1,7 @@
-# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
-# See https://github.com/greenelab/lab-website-template/wiki/Citations
-
-- id: 10.1016/j.jece.2026.122666
-  title: Simultaneous control of microbial inactivation and DBPs formation using differential
-    absorbance as a surrogate performance parameter
+# DO NOT EDIT, GENERATED FROM SOURCES.YAML
+# (Regenerated automatically by the auto-cite GitHub Action on push.)
+- id: https://doi.org/10.1016/j.jece.2026.122666
+  title: Simultaneous control of microbial inactivation and DBPs formation using differential absorbance as a surrogate performance parameter
   authors:
   - Luca Baccini
   - Mingquan Yan
@@ -13,13 +11,9 @@
   publisher: Journal of Environmental Chemical Engineering
   date: '2026-06-01'
   link: https://doi.org/10.1016/j.jece.2026.122666
-  tags:
-  - disinfection byproducts
-  - spectroscopy
-  _cache: dd1a52b311c32c2484e6a1821ec04bfd44b4ed4a97e37843acca37a098bf77b1
-- id: 10.1016/j.watres.2025.124160
-  title: A universal model to predict DOC removal by coagulation based on UV-Visible
-    absorption spectrum
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2213343726016404-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.watres.2025.124160
+  title: A universal model to predict DOC removal by coagulation based on UV-Visible absorption spectrum
   authors:
   - Yang Deng
   - Hanzhe Wang
@@ -30,12 +24,9 @@
   publisher: Water Research
   date: '2025-11-01'
   link: https://doi.org/10.1016/j.watres.2025.124160
-  tags:
-  - spectroscopy
-  _cache: 0b28f9e840e755e38659f41896ddf6adf76a7ddcf3c279487bfde1308e0b29dc
-- id: 10.1016/j.coesh.2025.100632
-  title: Effects of microplastics on water disinfection and formation of disinfection
-    by-products
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004313542501067X-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.coesh.2025.100632
+  title: Effects of microplastics on water disinfection and formation of disinfection by-products
   authors:
   - Saurabh Shukla
   - Ramsha Khan
@@ -45,11 +36,8 @@
   publisher: Current Opinion in Environmental Science & Health
   date: '2025-08-01'
   link: https://doi.org/10.1016/j.coesh.2025.100632
-  tags:
-  - disinfection byproducts
-  - microplastics
-  _cache: 1c14cb84b300c514f625f49e2dde48c0047a73da5edf8d7cf203765c2d3b6399
-- id: 10.1038/s41467-025-60510-0
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2468584425000418-ga1_lrg.jpg
+- id: https://doi.org/10.1038/s41467-025-60510-0
   title: Unveiling ongoing biogeochemical dynamics of CDOM from surface to deep ocean
   authors:
   - Shansheng Mo
@@ -64,10 +52,7 @@
   publisher: Nature Communications
   date: '2025-06-04'
   link: https://doi.org/10.1038/s41467-025-60510-0
-  tags:
-  - natural organic matter
-  _cache: 8474cfd22364bfa0f60f1ce67587fb0ff65c2e7432bb8d2e0439577b563f9043
-- id: 10.1021/acs.est.5c01019
+- id: https://doi.org/10.1021/acs.est.5c01019
   title: Absorptivity Inversely Proportional to Spectral Slope in CDOM
   authors:
   - Mingquan Yan
@@ -77,12 +62,8 @@
   publisher: Environmental Science & Technology
   date: '2025-04-01'
   link: https://doi.org/10.1021/acs.est.5c01019
-  tags:
-  - natural organic matter
-  _cache: 6c4ff0f4d684e66ad70d4113d43f74c17e9f5012454525ea61bf3891847f1639
-- id: 10.1016/j.jece.2025.115916
-  title: 'Use of fluorescence for real-time monitoring of contaminants of emerging
-    concern in (waste)water: Perspectives for sensors implementation and process control'
+- id: https://doi.org/10.1016/j.jece.2025.115916
+  title: 'Use of fluorescence for real-time monitoring of contaminants of emerging concern in (waste)water: Perspectives for sensors implementation and process control'
   authors:
   - Filippo Fazzino
   - Paolo Roccaro
@@ -93,13 +74,9 @@
   publisher: Journal of Environmental Chemical Engineering
   date: '2025-04-01'
   link: https://doi.org/10.1016/j.jece.2025.115916
-  tags:
-  - spectroscopy
-  _cache: d495acb4267879e85284f355f9bb161d8e552a237a4d037ee40e86d9d534da5f
-- id: 10.1016/j.chemosphere.2024.143949
-  title: Effects of pH on the differential absorbance spectra, d-d transition bands
-    and structural properties of copper complexes with humic substances and model
-    compounds
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2213343725006128-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.chemosphere.2024.143949
+  title: Effects of pH on the differential absorbance spectra, d-d transition bands and structural properties of copper complexes with humic substances and model compounds
   authors:
   - Chenyang Zhang
   - Po-An Chen
@@ -110,14 +87,9 @@
   publisher: Chemosphere
   date: '2025-02-01'
   link: https://doi.org/10.1016/j.chemosphere.2024.143949
-  tags:
-  - spectroscopy
-  - natural organic matter
-  - metals
-  _cache: d3f240b461c7cb9225900d97cf061b4ba7b5a52c8542f4880ed18ca8360cc359
-- id: 10.1016/j.envint.2024.108839
-  title: 'Micro(nano)plastics from synthetic oligomers persisting in Mediterranean
-    seawater: Comprehensive NMR analysis, concerns and origins'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653524028571-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.envint.2024.108839
+  title: 'Micro(nano)plastics from synthetic oligomers persisting in Mediterranean seawater: Comprehensive NMR analysis, concerns and origins'
   authors:
   - Alessia Giannattasio
   - Veronica Iuliano
@@ -136,12 +108,9 @@
   publisher: Environment International
   date: '2024-08-01'
   link: https://doi.org/10.1016/j.envint.2024.108839
-  tags:
-  - microplastics
-  _cache: 49500ca701114464c2b84a2d1de6039af01a89d2c188242856fbaa84d810b5b1
-- id: 10.1016/j.isprsjprs.2024.05.026
-  title: A novel algorithm to extrapolate ultraviolet absorption of chromophoric dissolved
-    organic matter from remote sensing ocean color
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0160412024004252-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.isprsjprs.2024.05.026
+  title: A novel algorithm to extrapolate ultraviolet absorption of chromophoric dissolved organic matter from remote sensing ocean color
   authors:
   - Zhongli Liu
   - Shansheng Mo
@@ -151,13 +120,8 @@
   publisher: ISPRS Journal of Photogrammetry and Remote Sensing
   date: '2024-08-01'
   link: https://doi.org/10.1016/j.isprsjprs.2024.05.026
-  tags:
-  - disinfection byproducts
-  - natural organic matter
-  _cache: d2eb3af8acf2bb7e09994a1d43b14674b5eaf75684c7fb40869ba951b9a4357d
-- id: 10.1016/j.scitotenv.2024.172896
-  title: 'Electro living membrane bioreactor for highly efficient wastewater treatment
-    and fouling mitigation: Influence of current density on process performances'
+- id: https://doi.org/10.1016/j.scitotenv.2024.172896
+  title: 'Electro living membrane bioreactor for highly efficient wastewater treatment and fouling mitigation: Influence of current density on process performances'
   authors:
   - Mary Vermi Aizza Corpuz
   - Laura Borea
@@ -171,15 +135,9 @@
   publisher: Science of The Total Environment
   date: '2024-06-01'
   link: https://doi.org/10.1016/j.scitotenv.2024.172896
-  tags:
-  - electrochemistry
-  - membrane
-  - wastewater
-  _cache: e5f0f799f0d35474c7cc934a04daa8d63f2b1a144722815d4939b384334d72c3
-- id: 10.1016/j.jwpe.2024.105486
-  title: 'Revolutionizing wastewater treatment toward circular economy and carbon
-    neutrality goals: Pioneering sustainable and efficient solutions for automation
-    and advanced process control with smart and cutting-edge technologies'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969724030432-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.jwpe.2024.105486
+  title: 'Revolutionizing wastewater treatment toward circular economy and carbon neutrality goals: Pioneering sustainable and efficient solutions for automation and advanced process control with smart and cutting-edge technologies'
   authors:
   - Stefano Cairone
   - Shadi W. Hasan
@@ -194,12 +152,9 @@
   publisher: Journal of Water Process Engineering
   date: '2024-06-01'
   link: https://doi.org/10.1016/j.jwpe.2024.105486
-  tags:
-  - wastewater
-  _cache: 82e9cdae3c21afc9780dd1b9d058a3750f8d006fc838d5dd76863b71fa7a65cc
-- id: 10.1016/j.watres.2024.121367
-  title: A universal model to predict yields of THMs and HAAs based on UV–Visible
-    absorption spectra
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2214714424007189-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.watres.2024.121367
+  title: A universal model to predict yields of THMs and HAAs based on UV–Visible absorption spectra
   authors:
   - Yang Deng
   - Shansheng Mo
@@ -208,13 +163,9 @@
   publisher: Water Research
   date: '2024-05-01'
   link: https://doi.org/10.1016/j.watres.2024.121367
-  tags:
-  - disinfection byproducts
-  - spectroscopy
-  _cache: 36d64a92ca7841b0a773f3fb70852caa0119562da72f1d8ea24616590f64cb78
-- id: 10.1016/j.jenvman.2024.120830
-  title: 'Microalgae to biodiesel: A novel green conversion method for high-quality
-    lipids recovery and in-situ transesterification to fatty acid methyl esters'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135424002690-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.jenvman.2024.120830
+  title: 'Microalgae to biodiesel: A novel green conversion method for high-quality lipids recovery and in-situ transesterification to fatty acid methyl esters'
   authors:
   - Giuseppina Oliva
   - Antonio Buonerba
@@ -228,12 +179,9 @@
   publisher: Journal of Environmental Management
   date: '2024-04-01'
   link: https://doi.org/10.1016/j.jenvman.2024.120830
-  tags:
-  - environmental chemistry
-  _cache: 33090b8a795141167c413a9a7e7c2571fa2ecd4b16a82f2dd0d50cebecc4865d
-- id: 10.1016/j.jhazmat.2023.132873
-  title: 'Evaluation of the fate of wastewater effluent organic matter in receiving
-    water: Effect of sequential photochemical and biological processes'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0301479724008168-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.jhazmat.2023.132873
+  title: 'Evaluation of the fate of wastewater effluent organic matter in receiving water: Effect of sequential photochemical and biological processes'
   authors:
   - Lei Zheng
   - Feng Xiao
@@ -248,14 +196,9 @@
   publisher: Journal of Hazardous Materials
   date: '2024-02-01'
   link: https://doi.org/10.1016/j.jhazmat.2023.132873
-  tags:
-  - natural organic matter
-  - wastewater
-  _cache: 9d4d2b26f1548e0fc524ee369e628a38060da40296a1697398584e2a886994b9
-- id: 10.1007/978-3-031-63353-9_42
-  title: Fluorescence-Based Approach for Monitoring Perfluorooctanoic Acid (PFOA)
-    and Perfluorooctanesulfonic Acid (PFOS) During Granular Activated Carbon (GAC)
-    Adsorption
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S030438942302157X-ga1_lrg.jpg
+- id: https://doi.org/10.1007/978-3-031-63353-9_42
+  title: Fluorescence-Based Approach for Monitoring Perfluorooctanoic Acid (PFOA) and Perfluorooctanesulfonic Acid (PFOS) During Granular Activated Carbon (GAC) Adsorption
   authors:
   - Luigi Marino
   - Erica Gagliano
@@ -267,14 +210,8 @@
   publisher: Lecture Notes in Civil Engineering
   date: '2024-01-01'
   link: https://doi.org/10.1007/978-3-031-63353-9_42
-  tags:
-  - sulfur
-  - spectroscopy
-  - PFAS
-  _cache: 71e283b32c98f9b532b3a46993c89b2a61ce9d6b32aaf753c99f91ff9fad8624
-- id: 10.1021/acsestwater.3c00536
-  title: Formation of N-Nitrosodimethylamine by Sunlight Irradiation of Dimethylamine
-    Compounds in the Presence of Nitrite
+- id: https://doi.org/10.1021/acsestwater.3c00536
+  title: Formation of N-Nitrosodimethylamine by Sunlight Irradiation of Dimethylamine Compounds in the Presence of Nitrite
   authors:
   - Peizeng Yang
   - Jiayue Dong
@@ -285,12 +222,8 @@
   publisher: ACS ES&T Water
   date: '2023-12-09'
   link: https://doi.org/10.1021/acsestwater.3c00536
-  tags:
-  - disinfection byproducts
-  _cache: 33eaa9a04c6962d5ac28abe63d97cf1605ddda7287ff81928dbf778168143cc0
-- id: 10.1016/j.chemosphere.2023.140352
-  title: Characterizing photochemical production carboxyl content of dissolved organic
-    matters using absorbance spectroscopy combined with FT-ICR MS
+- id: https://doi.org/10.1016/j.chemosphere.2023.140352
+  title: Characterizing photochemical production carboxyl content of dissolved organic matters using absorbance spectroscopy combined with FT-ICR MS
   authors:
   - Zizhuo Wei
   - Na Li
@@ -303,13 +236,9 @@
   publisher: Chemosphere
   date: '2023-12-01'
   link: https://doi.org/10.1016/j.chemosphere.2023.140352
-  tags:
-  - spectroscopy
-  - natural organic matter
-  _cache: bc22450adc093268a5c097e1b9e504d037d77a3920889408ebee362a8f521b64
-- id: 10.1016/j.watres.2023.120522
-  title: Interpreting pH-Dependent Differential UV/VIS Absorbance Spectra to Characterize
-    Carboxylic and Phenolic Chromophores in Natural Organic Matter
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004565352302622X-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.watres.2023.120522
+  title: Interpreting pH-Dependent Differential UV/VIS Absorbance Spectra to Characterize Carboxylic and Phenolic Chromophores in Natural Organic Matter
   authors:
   - Chenyang Zhang
   - Shansheng Mo
@@ -322,13 +251,9 @@
   publisher: Water Research
   date: '2023-10-01'
   link: https://doi.org/10.1016/j.watres.2023.120522
-  tags:
-  - spectroscopy
-  - natural organic matter
-  _cache: 5029b8f899599140a726b953f87e4086ae42685291535e688375e9bde198099e
-- id: 10.1016/j.scitotenv.2023.164689
-  title: 'Biological desulfurization of biogas: A comprehensive review on sulfide
-    microbial metabolism and treatment biotechnologies'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135423009624-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.scitotenv.2023.164689
+  title: 'Biological desulfurization of biogas: A comprehensive review on sulfide microbial metabolism and treatment biotechnologies'
   authors:
   - Carlos R. Cattaneo
   - Raul Muñoz
@@ -339,12 +264,9 @@
   publisher: Science of The Total Environment
   date: '2023-10-01'
   link: https://doi.org/10.1016/j.scitotenv.2023.164689
-  tags:
-  - sulfur
-  _cache: 8f9af3892c7db03b6a5ef3c046463f559cd0897d8ba6f9d021cfe0dde79a84c6
-- id: 10.1021/acsestwater.3c00296
-  title: 'Insights into Molecules of Natural Organic Matter Binding with a Copper(II)
-    Cation: Interpretation Based on FT-ICR-MS and Differential UV–Vis Absorbance Spectra'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969723033120-ga1_lrg.jpg
+- id: https://doi.org/10.1021/acsestwater.3c00296
+  title: 'Insights into Molecules of Natural Organic Matter Binding with a Copper(II) Cation: Interpretation Based on FT-ICR-MS and Differential UV–Vis Absorbance Spectra'
   authors:
   - Xin Gu
   - Chenyang Zhang
@@ -354,12 +276,7 @@
   publisher: ACS ES&T Water
   date: '2023-09-04'
   link: https://doi.org/10.1021/acsestwater.3c00296
-  tags:
-  - spectroscopy
-  - natural organic matter
-  - metals
-  _cache: 0ad2e373fc28b3197efc86684c1ba092374ed0519a957d5044c7b44da5e2ac63
-- id: 10.1021/acsestwater.3c00257
+- id: https://doi.org/10.1021/acsestwater.3c00257
   title: Bromide Catalyzes the Transformation of Nitrite by Sulfate Radical Oxidation
   authors:
   - Jiayue Dong
@@ -369,12 +286,8 @@
   publisher: ACS ES&T Water
   date: '2023-08-17'
   link: https://doi.org/10.1021/acsestwater.3c00257
-  tags:
-  - sulfur
-  _cache: 2ea452ee15c26cda0dbc6fe40c4850be0807c33773bc0cdccc1a437fa8075857
-- id: 10.1016/j.scitotenv.2023.163965
-  title: Unraveling microbial community by next-generation sequencing in living membrane
-    bioreactors for wastewater treatment
+- id: https://doi.org/10.1016/j.scitotenv.2023.163965
+  title: Unraveling microbial community by next-generation sequencing in living membrane bioreactors for wastewater treatment
   authors:
   - Carlo Cabreros
   - Mary Vermi Aizza Corpuz
@@ -392,14 +305,9 @@
   publisher: Science of The Total Environment
   date: '2023-08-01'
   link: https://doi.org/10.1016/j.scitotenv.2023.163965
-  tags:
-  - membrane
-  - wastewater
-  _cache: deb3ddb7ab22ee52b63ecc1bc6e54cdd570e1237019363f7f0bc9efd8c91ad06
-- id: 10.1016/j.watres.2023.119702
-  title: 'Changes of dissolved organic matter fractions and formation of oxidation
-    byproducts during electrochemical treatment of landfill leachates: Development
-    of spectroscopic indicators for process optimization'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004896972302586X-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.watres.2023.119702
+  title: 'Changes of dissolved organic matter fractions and formation of oxidation byproducts during electrochemical treatment of landfill leachates: Development of spectroscopic indicators for process optimization'
   authors:
   - Bi-Cun Jiang
   - Ye-Chao Tian
@@ -414,17 +322,9 @@
   publisher: Water Research
   date: '2023-04-01'
   link: https://doi.org/10.1016/j.watres.2023.119702
-  tags:
-  - landfill
-  - electrochemistry
-  - disinfection byproducts
-  - spectroscopy
-  - natural organic matter
-  - wastewater
-  _cache: e44c5763c5c52858fb1987a5e16212c2f826a7a0a23f5ada9a38fdd9c4882645
-- id: 10.1016/j.memsci.2023.121443
-  title: The impact of sunlight on fouling behaviors and microbial communities in
-    membrane bioreactors
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135423001379-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.memsci.2023.121443
+  title: The impact of sunlight on fouling behaviors and microbial communities in membrane bioreactors
   authors:
   - Hyeona Park
   - Syed Salman Ali Shah
@@ -434,13 +334,9 @@
   publisher: Journal of Membrane Science
   date: '2023-04-01'
   link: https://doi.org/10.1016/j.memsci.2023.121443
-  tags:
-  - membrane
-  _cache: cba4ac57703ee91b397c70101afa70d09f4a1d69471111b70c363f975bafea24
-- id: 10.1016/j.jhazmat.2022.130522
-  title: 'XANES/EXAFS and quantum chemical study of the speciation of arsenic in the
-    condensate formed in landfill gas processing: Evidence of the dominance of As-S
-    species'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0376738823000996-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.jhazmat.2022.130522
+  title: 'XANES/EXAFS and quantum chemical study of the speciation of arsenic in the condensate formed in landfill gas processing: Evidence of the dominance of As-S species'
   authors:
   - Po-An Chen
   - H. Paul Wang
@@ -452,14 +348,9 @@
   publisher: Journal of Hazardous Materials
   date: '2023-03-01'
   link: https://doi.org/10.1016/j.jhazmat.2022.130522
-  tags:
-  - landfill
-  - spectroscopy
-  - metals
-  _cache: 17dc852f0ef49fdf27eedb3a7627cf65ec865f0a28582e1864a815cabe08c1b3
-- id: 10.1016/j.scitotenv.2022.159800
-  title: 'Transformation of macrolide antibiotics during chlorination process: Kinetics,
-    degradation products, and comprehensive toxicity evaluation'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304389422023160-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.scitotenv.2022.159800
+  title: 'Transformation of macrolide antibiotics during chlorination process: Kinetics, degradation products, and comprehensive toxicity evaluation'
   authors:
   - Wei Li
   - Kai Liu
@@ -471,12 +362,9 @@
   publisher: Science of The Total Environment
   date: '2023-02-01'
   link: https://doi.org/10.1016/j.scitotenv.2022.159800
-  tags:
-  - environmental chemistry
-  _cache: 27587ae5f2de64c56117337ff9aa559eaf29696c5e1981e0d5cf0a4a906ddca6
-- id: 10.1016/j.cscee.2022.100238
-  title: Advances in virus detection methods for wastewater-based epidemiological
-    applications
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722069005-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.cscee.2022.100238
+  title: Advances in virus detection methods for wastewater-based epidemiological applications
   authors:
   - Mary Vermi Aizza Corpuz
   - Antonio Buonerba
@@ -488,13 +376,9 @@
   publisher: Case Studies in Chemical and Environmental Engineering
   date: '2022-12-01'
   link: https://doi.org/10.1016/j.cscee.2022.100238
-  tags:
-  - wastewater
-  - water-based epidemiology
-  _cache: d45275273b57f1382d908280af3d3748f6d22684ff557e1f7ff3c2ff610cda99
-- id: 10.1021/acs.est.2c06821
-  title: New Insights into the Role of Nitrite in the Degradation of Tetrabromobisphenol
-    S by Sulfate Radical Oxidation
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2666016422000603-ga1_lrg.jpg
+- id: https://doi.org/10.1021/acs.est.2c06821
+  title: New Insights into the Role of Nitrite in the Degradation of Tetrabromobisphenol S by Sulfate Radical Oxidation
   authors:
   - Peizeng Yang
   - Jiating Liu
@@ -504,29 +388,19 @@
   publisher: Environmental Science & Technology
   date: '2022-12-01'
   link: https://doi.org/10.1021/acs.est.2c06821
-  tags:
-  - sulfur
-  _cache: 5460e8795afdb0260e94d95af0ab2dc9402591d7e02bebcfa1d4d23af69b678b
-- id: 10.3390/environsciproc2022021077
-  title: 'Sewage Sludge-Derived Biochar for Micropollutant Removal: A Brief Overview
-    with Emphasis on European Water Policy'
+- id: https://doi.org/10.3390/environsciproc2022021077
+  title: 'Sewage Sludge-Derived Biochar for Micropollutant Removal: A Brief Overview with Emphasis on European Water Policy'
   authors:
   - Christoph Gatz
   - Vincenzo Belgiorno
   - Tiziano Zarra
   - Gregory V. Korshin
   - Vincenzo Naddeo
-  publisher: 'EWaS5 International Conference: &ldquo;Water Security and Safety Management:
-    Emerging Threats or New Challenges? Moving from Therapy and Restoration to Prognosis
-    and Prevention&rdquo;'
+  publisher: 'EWaS5 International Conference: &ldquo;Water Security and Safety Management: Emerging Threats or New Challenges? Moving from Therapy and Restoration to Prognosis and Prevention&rdquo;'
   date: '2022-11-08'
   link: https://doi.org/10.3390/environsciproc2022021077
-  tags:
-  - wastewater
-  _cache: 82063518d1337add1e521a51858f39d85247c0caef52eece7ce32eaaad577f55
-- id: 10.1016/j.chemosphere.2022.135664
-  title: Comparison of the formation of aldehydes and carboxylic acids in ozonated
-    and electrochemically treated surface water
+- id: https://doi.org/10.1016/j.chemosphere.2022.135664
+  title: Comparison of the formation of aldehydes and carboxylic acids in ozonated and electrochemically treated surface water
   authors:
   - Siqi Liu
   - Jaeshin Kim
@@ -534,12 +408,9 @@
   publisher: Chemosphere
   date: '2022-11-01'
   link: https://doi.org/10.1016/j.chemosphere.2022.135664
-  tags:
-  - electrochemistry
-  _cache: a82e979be29ede14ece85a5332452cf83b7746348e0a969efc12bb432667d359
-- id: 10.1038/s41545-022-00184-z
-  title: Advanced wastewater treatment and membrane fouling control by electro-encapsulated
-    self-forming dynamic membrane bioreactor
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653522021579-ga1_lrg.jpg
+- id: https://doi.org/10.1038/s41545-022-00184-z
+  title: Advanced wastewater treatment and membrane fouling control by electro-encapsulated self-forming dynamic membrane bioreactor
   authors:
   - Jessa Marie J. Millanar-Marfa
   - Mary Vermi Aizza Corpuz
@@ -557,14 +428,8 @@
   publisher: npj Clean Water
   date: '2022-08-25'
   link: https://doi.org/10.1038/s41545-022-00184-z
-  tags:
-  - electrochemistry
-  - membrane
-  - wastewater
-  _cache: c9b4866de08876b5ee2cf57df4a846db855b920390e84cac62ed451d1253b294
-- id: 10.1016/j.chemosphere.2022.134728
-  title: Active-chlorine-mediated oxidation of 5-fluorouracil on a hierarchically
-    ordered macroporous RuO2 electrode
+- id: https://doi.org/10.1016/j.chemosphere.2022.134728
+  title: Active-chlorine-mediated oxidation of 5-fluorouracil on a hierarchically ordered macroporous RuO2 electrode
   authors:
   - Ruiqian Liu
   - Lu Wang
@@ -575,12 +440,9 @@
   publisher: Chemosphere
   date: '2022-08-01'
   link: https://doi.org/10.1016/j.chemosphere.2022.134728
-  tags:
-  - electrochemistry
-  _cache: e3ca7668fdf531fb306e52fa6f06ae8f70dcf1abf93a11d6f5dcdbcf8e23fe28
-- id: 10.1021/acs.est.2c00702
-  title: Differentiation of Pathways of Nitrated Byproduct Formation from Ammonium
-    and Nitrite During Sulfate Radical Oxidation
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653522012218-ga1_lrg.jpg
+- id: https://doi.org/10.1021/acs.est.2c00702
+  title: Differentiation of Pathways of Nitrated Byproduct Formation from Ammonium and Nitrite During Sulfate Radical Oxidation
   authors:
   - Peizeng Yang
   - Gregory V. Korshin
@@ -590,13 +452,8 @@
   publisher: Environmental Science & Technology
   date: '2022-05-12'
   link: https://doi.org/10.1021/acs.est.2c00702
-  tags:
-  - sulfur
-  - disinfection byproducts
-  _cache: f93274706b6400933bd3130bc2e6c29fb99783ec8f035623a407238384af9ada
-- id: 10.1016/j.chemosphere.2021.133193
-  title: Effect of chlorination on the characteristics of effluent organic matter
-    and the phototransformation of sulfamethoxazole in secondary wastewater
+- id: https://doi.org/10.1016/j.chemosphere.2021.133193
+  title: Effect of chlorination on the characteristics of effluent organic matter and the phototransformation of sulfamethoxazole in secondary wastewater
   authors:
   - Wei Li
   - Chun Ding
@@ -606,14 +463,9 @@
   publisher: Chemosphere
   date: '2022-05-01'
   link: https://doi.org/10.1016/j.chemosphere.2021.133193
-  tags:
-  - sulfur
-  - natural organic matter
-  - wastewater
-  _cache: 374a74c917cbcacd39f706f1482b8f409c5128486a19dfd299fa81d3f67e1d67
-- id: 10.1016/j.watres.2022.118093
-  title: 'Removal of dimethylarsinic acid (DMA) in the Fe/C system: roles of Fe(II)
-    release, DMA/Fe(II) and DMA/Fe(III) complexation'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653521036651-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.watres.2022.118093
+  title: 'Removal of dimethylarsinic acid (DMA) in the Fe/C system: roles of Fe(II) release, DMA/Fe(II) and DMA/Fe(III) complexation'
   authors:
   - Siqi Liu
   - Andrey M. Kuznetsov
@@ -623,10 +475,8 @@
   publisher: Water Research
   date: '2022-04-01'
   link: https://doi.org/10.1016/j.watres.2022.118093
-  tags:
-  - metals
-  _cache: 707d27ce03ec204e2f2f63e60812768ca1eb029f20c3b72a2085b9ff039c6707
-- id: 10.1007/698_2022_869
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135422000562-ga1_lrg.jpg
+- id: https://doi.org/10.1007/698_2022_869
   title: Advanced Configuration for Efficient Membrane Bioreactors
   authors:
   - Vincenzo Naddeo
@@ -638,13 +488,8 @@
   publisher: The Handbook of Environmental Chemistry
   date: '2022-01-01'
   link: https://doi.org/10.1007/698_2022_869
-  tags:
-  - membrane
-  _cache: 8f1ba652f3c229470e5bd89af3887e1995fb6995d780444a5894eeca7771711d
-- id: 10.1016/j.cej.2021.131154
-  title: Identification of pterins as characteristic humic-like fluorophores released
-    from cyanobacteria and their behavior and fate in natural and engineered water
-    systems
+- id: https://doi.org/10.1016/j.cej.2021.131154
+  title: Identification of pterins as characteristic humic-like fluorophores released from cyanobacteria and their behavior and fate in natural and engineered water systems
   authors:
   - Yan-Ting Zuo
   - Ji Wu
@@ -660,12 +505,9 @@
   publisher: Chemical Engineering Journal
   date: '2022-01-01'
   link: https://doi.org/10.1016/j.cej.2021.131154
-  tags:
-  - natural organic matter
-  _cache: f7467dd7099bc3a22c1a63d8a11772a0577cd58aaaaff2bc0732692121ff9faf
-- id: 10.1016/j.watres.2021.117379
-  title: 'Interactions between the antibiotic tetracycline and humic acid: Examination
-    of the binding sites, and effects of complexation on the oxidation of tetracycline'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1385894721027352-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.watres.2021.117379
+  title: 'Interactions between the antibiotic tetracycline and humic acid: Examination of the binding sites, and effects of complexation on the oxidation of tetracycline'
   authors:
   - Bo Yang
   - Chengjin Wang
@@ -680,12 +522,9 @@
   publisher: Water Research
   date: '2021-09-01'
   link: https://doi.org/10.1016/j.watres.2021.117379
-  tags:
-  - natural organic matter
-  _cache: 0bd2f65a3b9694682ebbb18f357afabb1e99b7ea6cbe37c1d3be8ebf319403b7
-- id: 10.1016/j.jhazmat.2021.125580
-  title: 'Coronavirus in water media: Analysis, fate, disinfection and epidemiological
-    applications'
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0043135421005777-fx1_lrg.jpg
+- id: https://doi.org/10.1016/j.jhazmat.2021.125580
+  title: 'Coronavirus in water media: Analysis, fate, disinfection and epidemiological applications'
   authors:
   - Antonio Buonerba
   - Mary Vermi Aizza Corpuz
@@ -699,12 +538,9 @@
   publisher: Journal of Hazardous Materials
   date: '2021-08-01'
   link: https://doi.org/10.1016/j.jhazmat.2021.125580
-  tags:
-  - water-based epidemiology
-  _cache: 3b3404bb3d0ae516d750b7040797ee7f64dff6a1c5fea9ed947cddd45bef40f7
-- id: 10.1016/j.chemosphere.2021.130043
-  title: Interpretation of the differential UV–visible absorbance spectra of metal-NOM
-    complexes based on the quantum chemical simulations for the model compound esculetin
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0304389421005434-ga1_lrg.jpg
+- id: https://doi.org/10.1016/j.chemosphere.2021.130043
+  title: Interpretation of the differential UV–visible absorbance spectra of metal-NOM complexes based on the quantum chemical simulations for the model compound esculetin
   authors:
   - Chenyang Zhang
   - Xuze Han
@@ -714,14 +550,9 @@
   publisher: Chemosphere
   date: '2021-08-01'
   link: https://doi.org/10.1016/j.chemosphere.2021.130043
-  tags:
-  - spectroscopy
-  - natural organic matter
-  - metals
-  _cache: fdd36dfb83edcde5d3e31c8cabd61d587db3d5d61aa5325fc54fe2992d620bc5
-- id: 10.1371/journal.pone.0251664
-  title: Solid-phase excitation-emission matrix spectroscopy for chemical analysis
-    of combustion aerosols
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653521005129-fx1_lrg.jpg
+- id: https://doi.org/10.1371/journal.pone.0251664
+  title: Solid-phase excitation-emission matrix spectroscopy for chemical analysis of combustion aerosols
   authors:
   - Gaurav Mahamuni
   - Jiayang He
@@ -734,12 +565,8 @@
   publisher: PLOS ONE
   date: '2021-05-20'
   link: https://doi.org/10.1371/journal.pone.0251664
-  tags:
-  - spectroscopy
-  _cache: d1b9ba3e23b3e99e92fa356594ecd4d75297db48048bc224d2bec4000ceffca2
-- id: 10.1016/j.chemosphere.2020.129241
-  title: Interpretation of the formation of unstable halogen-containing disinfection
-    by-products based on the differential absorbance spectroscopy approach
+- id: https://doi.org/10.1016/j.chemosphere.2020.129241
+  title: Interpretation of the formation of unstable halogen-containing disinfection by-products based on the differential absorbance spectroscopy approach
   authors:
   - Chenyang Zhang
   - Paolo Roccaro
@@ -748,11 +575,8 @@
   publisher: Chemosphere
   date: '2021-04-01'
   link: https://doi.org/10.1016/j.chemosphere.2020.129241
-  tags:
-  - disinfection byproducts
-  - spectroscopy
-  _cache: 550696398c99d67e37f6caf259a81cf035912663759154a8c086a82249283bfc
-- id: 10.1016/j.scitotenv.2020.142911
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S004565352033438X-fx1_lrg.jpg
+- id: https://doi.org/10.1016/j.scitotenv.2020.142911
   title: 'Water, energy and waste: The great European deal for the environment'
   authors:
   - Vincenzo Naddeo
@@ -760,10 +584,7 @@
   publisher: Science of The Total Environment
   date: '2021-04-01'
   link: https://doi.org/10.1016/j.scitotenv.2020.142911
-  tags:
-  - metals
-  _cache: 35d2d9825487ef53b921f56babcb0ba2355312c35fff3d8d2a7558b39fbb193e
-- id: 10.1080/15422119.2021.1887223
+- id: https://doi.org/10.1080/15422119.2021.1887223
   title: Self-forming Dynamic Membranes for Wastewater Treatment
   authors:
   - Jessa Marie J. Millanar-Marfa
@@ -779,13 +600,8 @@
   publisher: Separation & Purification Reviews
   date: '2021-03-21'
   link: https://doi.org/10.1080/15422119.2021.1887223
-  tags:
-  - membrane
-  - wastewater
-  _cache: cb10deed16fb734db5d66125f669524b818bf4f269961169d733e60fcd51a5fb
-- id: 10.1007/s41207-021-00243-w
-  title: 'Indoor versus outdoor transmission of SARS-COV-2: environmental factors
-    in virus spread and underestimated sources of risk'
+- id: https://doi.org/10.1007/s41207-021-00243-w
+  title: 'Indoor versus outdoor transmission of SARS-COV-2: environmental factors in virus spread and underestimated sources of risk'
   authors:
   - Vincenzo Senatore
   - Tiziano Zarra
@@ -800,7 +616,3 @@
   publisher: Euro-Mediterranean Journal for Environmental Integration
   date: '2021-02-10'
   link: https://doi.org/10.1007/s41207-021-00243-w
-  tags:
-  - metals
-  - water-based epidemiology
-  _cache: 100eadb2d0e955f6e35a04794c7803d9fb4ec2027101d1fb19f17b25d64dc2fb
