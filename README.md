@@ -1,4 +1,4 @@
-<h1 align="center">Evo-Epi Laboratory</h1>
+<h1 align="center">Korshin Laboratory</h1>
 <p align="center">
 
-Welcome! Source code for the Evo-Epi Laboratory [website](https://ksw9.github.io/).
+Welcome! Source code for the Korshin Laboratory [website](https://ksw9.github.io/).
