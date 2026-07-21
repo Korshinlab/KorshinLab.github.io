@@ -1,0 +1,626 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
+# See https://github.com/greenelab/lab-website-template/wiki/Citations
+
+- id: https://doi.org/10.1183/2312508X.10025522
+  title: Log in | European Respiratory Society
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://books.ersjournals.com/user/login?auth=no&external_destination=https%3A%2F%2Freader%2Eersjournals%2Ecom%2Flogin%2FpassiveLogin%3Ftarget%3Dhttps%3A%2F%2Freader%2Eersjournals%2Ecom%2Fthe-challenge-of-tuberculosis-in-the-21st-century%2F269%3Freauthenticate
+  tags:
+  - tb
+  - incarceration
+  - student contributions
+  _cache: 16eee3dc9ada2305d49df843a4dd5befb458c99a9bcc441a4dcbf639f37215a1
+- id: https://doi.org/10.1101/2023.12.28.23300451
+  title: Signatures of transmission in within-host M. tuberculosis variation
+  authors:
+  - Katharine S. Walter
+  - Ted Cohen
+  - Barun Mathema
+  - Caroline Colijn
+  - Benjamin Sobkowiak
+  - "I\xF1aki Comas"
+  - Galo A. Goig
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: medRxiv
+  date: '2023-12-29'
+  link: https://www.medrxiv.org/content/10.1101/2023.12.28.23300451v1
+  tags:
+  - genomics
+  - tb
+  image: https://www.medrxiv.org/content/medrxiv/early/2023/12/29/2023.12.28.23300451/F4.medium.gif
+  _cache: aef0c66e9a6ad4b26b65f7afbfa80d5be4472688b74436e0eb6d1e8a4490fecb
+- id: https://doi.org/10.1038/s41541-023-00740-9
+  title: Rapid emergence and transmission of virulence-associated mutations in the
+    oral poliovirus vaccine following vaccination campaigns
+  authors:
+  - Katharine S. Walter
+  - Jonathan Altamirano
+  - ChunHong Huang
+  - Yuan J. Carrington
+  - Frank Zhou
+  - Jason R. Andrews
+  - Yvonne Maldonado
+  publisher: npj Vaccines
+  date: '2023-09-25'
+  link: https://www.nature.com/articles/s41541-023-00740-9
+  tags:
+  - evolution
+  - poliovirus
+  - student contributions
+  image: https://www.nature.com/articles/s41541-023-00740-9/figures/1
+  _cache: c2e4c0ebbbe2b61b1c4f509c86b790ec216fcdbe8fa08fcb205bf2e013dec9c2
+- id: http://dx.doi.org/10.5588/ijtld.22.0642
+  title: Use of rapid molecular TB diagnostics for incarcerated people in Brazil
+  authors:
+  - E. B. Fajer
+  - F. D. Costa
+  - D. M. Pelissari
+  - F. A. Diaz Quijano
+  - A. Coelho de Brito
+  - E. A. T. Cunha
+  - J. Croda
+  - J. R. Andrews
+  - K. S. Walter
+  publisher: The International Journal of Tuberculosis and Lung Disease
+  date: '2023-05-01'
+  link: http://dx.doi.org/10.5588/ijtld.22.0642
+  tags:
+  - tb
+  - student 1st author
+  - incarceration
+  image: https://www.medrxiv.org/content/medrxiv/early/2021/12/02/2021.11.30.21266839/F3/graphic-3.medium.gif
+  _cache: 3ab7e5d9ca2fec2a85990459950108d6cef62c5d6ca13c8b0ccb47054b9abef5
+- id: https://doi.org/10.1038/s41467-023-35813-9
+  title: Phylogeography and transmission of Mycobacterium tuberculosis spanning prisons
+    and surrounding communities in Paraguay
+  authors:
+  - Gladys Estigarribia Sanabria
+  - Guillermo Sequera
+  - Sarita Aguirre
+  - "Julieta M\xE9ndez"
+  - "Paulo C\xE9sar Pereira Santos"
+  - Natalie Weiler Gustafson
+  - Margarita Godoy
+  - "Anal\xEDa Ortiz"
+  - Cynthia Cespedes
+  - "Gloria Mart\xEDnez"
+  - "Alberto L. Garc\xEDa-Basteiro"
+  - Jason R. Andrews
+  - Julio Croda
+  - Katharine S. Walter
+  publisher: Nature Communications
+  date: '2023-01-19'
+  link: https://www.nature.com/articles/s41467-023-35813-9
+  tags:
+  - tb
+  - genomics
+  - incarceration
+  - student 1st author
+  - student contributions
+  image: images/paper_images/pgy_phylogeny.jpg
+  _cache: 281285cf08129f61ffb17f22749018ba1b883d5750a85b0177bb24368bd00adc
+- id: https://doi.org/10.1093/ofid/ofad001
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://doi.org/10.1093/ofid/ofad001
+  tags:
+  - sars-cov-2
+  - genomics
+  - student contributions
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ofid/10/2/10.1093_ofid_ofad001/1/m_ofad001f2.jpeg?Expires=1706228849&Signature=1Kj-0qokT9q239KoeI3B8lxyYT5yRZyJhY6tq3qIaFb4lmhHovdNXfUQUjgdBQc1Kh1Amb6RdeXETwXI-g0c9bm~rMLpZsY3vQfaudGf8IDDyZj-ECYxsUDKtkHmZY-ntz4XxLG4nWRAwU1-zdbgcpUhEI1WsXfeuGikL5Lu30zHDQWSaWDHpqmDQpsDKb6OIanRhZRBafyaeciu23Oi5AQvpZ8vga6xeD~U7C6sOXc6Nk2n3zV5HusEjkv6r8UtR8vkp~Ukx~pL~LyKNh60922t~RL67uKVVK31GxoqZxME7X7epvcu4kOV4RCEwM6NYLg~8sO6pWOuc3IlcPGBaw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  _cache: 29f2a31164694258c2cce58b58da302a1ff8d2f5e21154c25168e5971413d498
+- id: doi:10.5588/ijtld.21.0449
+  title: The effect of incarceration on TB treatment outcomes
+  authors:
+  - "J. M. O\xB4Marr"
+  - "C. Gon\xE7alves"
+  - D. Arakaki-Sanchez
+  - D. M. Pelissari
+  - F. D. Costa
+  - J. Croda
+  - K. S. Walter
+  - J. R. Andrews
+  publisher: The International Journal of Tuberculosis and Lung Disease
+  date: '2022-03-01'
+  link: https://doi.org/grgkzr
+  tags:
+  - tb
+  - incarceration
+  - student 1st author
+  - student contributions
+  image: images/paper_images/State_DOT_access.jpg
+  _cache: 504da41e5e2ebfd868d6e4686f8a6f0e7bfc051b1b9d2857882ab6703838ab81
+- id: doi:10.1016/j.lana.2022.100186
+  title: 'The role of prisons in disseminating tuberculosis in Brazil: A genomic epidemiology
+    study'
+  authors:
+  - Katharine S. Walter
+  - "Paulo C\xE9sar Pereira dos Santos"
+  - "Thais Oliveira Gon\xE7alves"
+  - Bruna Oliveira da Silva
+  - Andrea da Silva Santos
+  - "Alessandra de C\xE1ssia Leite"
+  - Alessandra Moura da Silva
+  - Flora Martinez Figueira Moreira
+  - Roberto Dias de Oliveira
+  - Everton Ferreira Lemos
+  - Eunice Cunha
+  - Yiran E. Liu
+  - Albert I. Ko
+  - Caroline Colijn
+  - Ted Cohen
+  - Barun Mathema
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: The Lancet Regional Health - Americas
+  date: '2022-05-01'
+  link: https://doi.org/gqjbkt
+  tags:
+  - tb
+  - incarceration
+  - student contributions
+  image: images/action/big_phylogeny.jpg
+  _cache: 29494eb4b06f2c3e08d711ba1181ac176f3f90f264d57f8417febf1c386260e2
+- id: doi:10.1093/ofid/ofab600
+  title: Variation in Severe Acute Respiratory Syndrome Coronavirus 2 Bioaerosol Production
+    in Exhaled Breath
+  authors:
+  - Renu Verma
+  - Eugene Kim
+  - Nicholas Degner
+  - Katharine S Walter
+  - Upinder Singh
+  - Jason R Andrews
+  publisher: Open Forum Infectious Diseases
+  date: '2021-12-01'
+  link: https://doi.org/gpc4n9
+  tags:
+  - sars-cov-2
+  - genomics
+  - student contributions
+  image: images/paper_images/ofid_mask.png
+  _cache: 5f9fe25923307c7d47d00e29445be777bbabc5e018ed5fdfd088b14e5e6bb254
+- id: doi:10.1016/j.scitotenv.2022.156970
+  title: Detection of M. tuberculosis in the environment as a tool for identifying
+    high-risk locations for tuberculosis transmission
+  authors:
+  - Renu Verma
+  - Flora Martinez Figueira Moreira
+  - Agne Oliveira do Prado Morais
+  - Katharine S. Walter
+  - "Paulo C\xE9sar Pereira dos Santos"
+  - Eugene Kim
+  - Thiego Ramon Soares
+  - Rafaele Carla Pivetta de Araujo
+  - Bruna Oliveira da Silva
+  - Andrea da Silva Santos
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: Science of The Total Environment
+  date: '2022-10-01'
+  link: https://doi.org/gq5w96
+  tags:
+  - tb
+  - environmental sampling
+  - student contributions
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0048969722040670-mmc3.jpg
+  _cache: cd0de6ed3cd410a3bd4277dea0835dd940e32de0e12a9bbcaa582946a5aad309
+- id: doi:10.1093/cid/ciac312
+  title: 'Favipiravir for Treatment of Outpatients With Asymptomatic or Uncomplicated
+    Coronavirus Disease 2019: A Double-Blind, Randomized, Placebo-Controlled, Phase
+    2 Trial'
+  authors:
+  - Marisa Holubar
+  - Aruna Subramanian
+  - Natasha Purington
+  - Haley Hedlin
+  - Bryan Bunning
+  - Katharine S Walter
+  - Hector Bonilla
+  - Athanasia Boumis
+  - Michael Chen
+  - Kimberly Clinton
+  - Liisa Dewhurst
+  - Carol Epstein
+  - Prasanna Jagannathan
+  - Richard H Kaszynski
+  - Lori Panu
+  - Julie Parsonnet
+  - Elizabeth L Ponder
+  - Orlando Quintero
+  - Elizabeth Sefton
+  - Upinder Singh
+  - Luke Soberanis
+  - Henry Truong
+  - Jason R Andrews
+  - Manisha Desai
+  - Chaitan Khosla
+  - Yvonne Maldonado
+  publisher: Clinical Infectious Diseases
+  date: '2022-04-21'
+  link: https://doi.org/grgkzt
+  tags:
+  - sars-cov-2
+  - genomics
+  image: images/paper_images/favi.jpeg
+  _cache: 9cd30a83d47b0bed9bf0f9ced362e454b0a586502730abb6a631fd595af98ec1
+- id: doi:10.1371/journal.pmed.1003789
+  title: 'All-cause and cause-specific mortality during and following incarceration
+    in Brazil: A retrospective cohort study'
+  authors:
+  - Yiran E. Liu
+  - Everton Ferreira Lemos
+  - "Crhistinne Cavalheiro Maymone Gon\xE7alves"
+  - Roberto Dias de Oliveira
+  - Andrea da Silva Santos
+  - Agne Oliveira do Prado Morais
+  - Mariana Garcia Croda
+  - Maria de Lourdes Delgado Alves
+  - Julio Croda
+  - Katharine S. Walter
+  - Jason R. Andrews
+  publisher: PLOS Medicine
+  date: '2021-09-17'
+  link: https://doi.org/grgkzv
+  tags:
+  - tb
+  - incarceration
+  - student 1st author
+  - student contributions
+  image: images/paper_images/mortality.jpg
+  _cache: 9221fc068580b94a740a94726f7c7cdb8caad69d2a49594e44c9371a8e6ac7dc
+- id: doi:10.1016/S2468-2667(21)00025-6
+  title: 'Incidence and prevalence of tuberculosis in incarcerated populations: a
+    systematic review and meta-analysis'
+  authors:
+  - Olivia Cords
+  - Leonardo Martinez
+  - Joshua L Warren
+  - Jamieson Michael O'Marr
+  - Katharine S Walter
+  - Ted Cohen
+  - Jimmy Zheng
+  - Albert I Ko
+  - Julio Croda
+  - Jason R Andrews
+  publisher: The Lancet Public Health
+  date: '2021-05-01'
+  link: https://doi.org/grgkzw
+  image: https://www.thelancet.com/cms/attachment/395aa3d6-7256-48c7-945a-d667f9ca1f11/gr2.gif
+  tags:
+  - tb
+  - incarceration
+  _cache: 289d66bc587a5ccca104a6a4f6a5db09235cd7eac1b676bf46bfda583d0d7b8d
+- id: doi:10.3201/eid2703.203839
+  title: "Local and Travel-Associated Transmission of Tuberculosis at Central Western\
+    \ Border of Brazil, 2014\u20132017"
+  authors:
+  - Katharine S. Walter
+  - Mariana Bento Tatara
+  - Kesia Esther da Silva
+  - Flora Martinez Figueira Moreira
+  - Paulo Cesar Pereira dos Santos
+  - "D\xE2ndrea Driely de Melo Ferrari"
+  - Eunice Atsuko Cunha
+  - Jason R. Andrews
+  - Julio Croda
+  publisher: Emerging Infectious Diseases
+  date: '2021-03-01'
+  link: https://doi.org/grgkzx
+  tags:
+  - tb
+  - incarceration
+  - genomics
+  - student contributions
+  image: images/paper_images/tb_cluster_eid.jpeg
+  _cache: 1b0fca8c313d44a3d0b859c8fa2d8af1e11cfb33442f3f0aa6a76896228e51ec
+- id: doi:10.1016/S0140-6736(20)32578-2
+  title: The escalating tuberculosis crisis in central and South American prisons
+  authors:
+  - Katharine S Walter
+  - Leonardo Martinez
+  - Denise Arakaki-Sanchez
+  - Victor G Sequera
+  - G Estigarribia Sanabria
+  - Ted Cohen
+  - Albert I Ko
+  - "Alberto L Garc\xEDa-Basteiro"
+  - Zulma Vanessa Rueda
+  - "Rafael A L\xF3pez-Olarte"
+  - Marcos A Espinal
+  - Julio Croda
+  - Jason R Andrews
+  publisher: The Lancet
+  date: '2021-04-01'
+  link: https://doi.org/grgkzz
+  tags:
+  - tb
+  - incarceration
+  - student contributions
+  image: images/paper_images/lancet_map.jpg
+  _cache: e054e4d89234df0aa8ed0629a892fe5f60ad33de68125a925f385047619d0750
+- id: doi:10.1101/2021.11.30.21266839
+  title: "Use of rapid molecular tuberculosis diagnostics across Brazil\u2019s incarcerated\
+    \ population"
+  authors:
+  - Elinor B. Fajer
+  - Fernanda Dockhorn Costa
+  - Daniele Maria Pelissari
+  - Fredi Alexander Diaz Quijano
+  - Artemir Coelho de Brito
+  - Eunice Atsuko Totumi Cunha
+  - Julio Croda
+  - Jason R. Andrews
+  - Katharine S. Walter
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-12-02'
+  link: https://doi.org/grgkz2
+  image: images/paper_images/fajer_map.jpg
+  tags:
+  - tb
+  - incarceration
+  - student contributions
+  - student 1st author
+  _cache: 317df500bf6c9bc85dbe5feacb2e4d2c59c7ab2bc2f72bded654ed2ce7afb7a4
+- id: doi:10.1007/s11538-021-00896-2
+  title: Host Specialisation, Immune Cross-Reaction and the Composition of Communities
+    of Co-circulating Borrelia Strains
+  authors:
+  - Ben Adams
+  - Katharine S Walter
+  - Maria A. Diuk-Wasser
+  publisher: Bulletin of Mathematical Biology
+  date: '2021-05-03'
+  link: https://doi.org/grgkz3
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs11538-021-00896-2/MediaObjects/11538_2021_896_Fig6_HTML.png?as=webp
+  tags:
+  - within-host diversity
+  - Lyme disease
+  - dynamic models
+  _cache: afb9a1f07489e552567deba8943a19dabd22a987815e08b0cb83f10c4c400098
+- id: doi:10.1099/mgen.0.000418
+  title: Genomic variant-identification methods may alter Mycobacterium tuberculosis
+    transmission inferences
+  authors:
+  - Katharine S. Walter
+  - Caroline Colijn
+  - Ted Cohen
+  - Barun Mathema
+  - Qingyun Liu
+  - Jolene Bowers
+  - David M. Engelthaler
+  - Apurva Narechania
+  - Darrin Lemmer
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: Microbial Genomics
+  date: '2020-08-01'
+  link: https://doi.org/gpf4zg
+  tags:
+  - tb
+  - genomics
+  - student contributions
+  image: https://www.microbiologyresearch.org/docserver/fulltext/mgen/6/8/mgen000418-f3.gif
+  _cache: 3876cd81fc6b6dd6d96ae2844d4283eece1cf2f19f689bf5787364ba2bd0ffe2
+- id: doi:10.1183/13993003.02302-2018
+  title: "Detection, survival and infectious potential of <i>Mycobacterium tuberculosis</i>\
+    \ in\_the environment: a review of the evidence and epidemiological implications"
+  authors:
+  - Leonardo Martinez
+  - Renu Verma
+  - Julio Croda
+  - C. Robert Horsburgh
+  - Katharine S. Walter
+  - Nicholas Degner
+  - Keren Middelkoop
+  - Anastasia Koch
+  - Sabine Hermans
+  - Digby F. Warner
+  - Robin Wood
+  - Frank Cobelens
+  - Jason R. Andrews
+  publisher: European Respiratory Journal
+  date: '2019-05-02'
+  link: https://doi.org/grgk2m
+  tags:
+  - tb
+  image: images/paper_images/tb_environment.jpg
+  _cache: d7d86b562bb92e3034ec2ad861a5c0bc3ec65f872d8efad41a65852f4acb4705
+- id: https://doi.org/10.1371/journal.pmed.1002737
+  title: 'Evaluating strategies for control of tuberculosis in prisons and prevention
+    of spillover into communities: An observational and modeling study from Brazil'
+  authors:
+  - Tarub S. Mabud
+  - Maria de Lourdes Delgado Alves
+  - Albert I. Ko
+  - Sanjay Basu
+  - Katharine S. Walter
+  - Ted Cohen
+  - Barun Mathema
+  - Caroline Colijn
+  - Everton Lemos
+  - Julio Croda
+  - Jason R. Andrews
+  publisher: PLOS Medicine
+  date: '2019-01-24'
+  link: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002737
+  tags:
+  - tb
+  - incarceration
+  image: images/paper_images/tb_incidence_mabud.jpg
+  _cache: bafa6263d88cd4f96b84f2941e97f8d6b1027c877781a3488446af015b229c0a
+- id: doi:10.1371/journal.ppat.1007470
+  title: Colonization of the tsetse fly midgut with commensal Kosakonia cowanii Zambiae
+    inhibits trypanosome infection establishment
+  authors:
+  - Brian L. Weiss
+  - Michele A. Maltz
+  - "Aur\xE9lien Vigneron"
+  - Yineng Wu
+  - Katharine S. Walter
+  - "Michelle B. O\u2019Neill"
+  - Jingwen Wang
+  - Serap Aksoy
+  publisher: PLOS Pathogens
+  date: '2019-02-28'
+  link: https://doi.org/gmvm3s
+  tags:
+  - vectors
+  image: https://journals.plos.org/plospathogens/article/figure/image?size=inline&id=10.1371/journal.ppat.1007470.g005
+  _cache: 2331b4d9b32ed041c05bd897d9120ae34df650bc1ad5be26109b0b212b750d1f
+- id: doi:10.1038/s41559-017-0282-8
+  title: Genomic insights into the ancient spread of Lyme disease across North America
+  authors:
+  - Katharine S. Walter
+  - Giovanna Carpi
+  - Adalgisa Caccone
+  - Maria A. Diuk-Wasser
+  publisher: Nature Ecology &amp; Evolution
+  date: '2017-08-28'
+  link: https://doi.org/cck3
+  tags:
+  - Lyme disease
+  - vectors
+  - genomics
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6431794/bin/nihms-894064-f0003.jpg
+  _cache: ba200575587f6113bbcbea6a70bbf4545067454648d45b9cf0bc38016bc80bb5
+- id: doi:10.1098/rspb.2017.0901
+  title: 'Identifying climate drivers of infectious disease dynamics: recent advances
+    and challenges ahead'
+  authors:
+  - C. Jessica E. Metcalf
+  - Katharine S. Walter
+  - Amy Wesolowski
+  - Caroline O. Buckee
+  - Elena Shevliakova
+  - Andrew J. Tatem
+  - William R. Boos
+  - Daniel M. Weinberger
+  - Virginia E. Pitzer
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2017-08-16'
+  link: https://doi.org/gjrnp3
+  tags:
+  - climate change
+  image: https://royalsocietypublishing.org/cms/asset/1c8fed57-f0d9-4371-bc32-b0a7e0573b58/rspb20170901f01.jpg
+  _cache: 49e0736205c5de22934e89588eb24fbe69fe2244265cd17691019608082752ab
+- id: doi:10.1186/s12864-016-3225-x
+  title: Babesia microti from humans and ticks hold a genomic signature of strong
+    population structure in the United States
+  authors:
+  - Giovanna Carpi
+  - Katharine S. Walter
+  - Choukri Ben Mamoun
+  - Peter J. Krause
+  - Andrew Kitchen
+  - Timothy J. Lepore
+  - Ankit Dwivedi
+  - Emmanuel Cornillot
+  - Adalgisa Caccone
+  - Maria A. Diuk-Wasser
+  publisher: BMC Genomics
+  date: '2016-11-07'
+  link: https://doi.org/grgk2p
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-016-3225-x/MediaObjects/12864_2016_3225_Fig1_HTML.gif?as=webp
+  tags:
+  - vectors
+  - genomics
+  _cache: 46c5fccb02fd6785de5778c190c587afe16c7a1096ba241c3dd96cf4c0c2184f
+- id: doi:10.1371/journal.ppat.1005759
+  title: 'Vectors as Epidemiological Sentinels: Patterns of Within-Tick Borrelia burgdorferi
+    Diversity'
+  authors:
+  - Katharine S. Walter
+  - Giovanna Carpi
+  - Benjamin R. Evans
+  - Adalgisa Caccone
+  - Maria A. Diuk-Wasser
+  publisher: PLOS Pathogens
+  date: '2016-07-14'
+  link: https://doi.org/f93mgt
+  image: images/paper_images/within-tick.jpg
+  tags:
+  - vectors
+  - genomics
+  - Lyme disease
+  - within-host diversity
+  _cache: b24c8f0a3ce278494df8a3d33e5779f27f7898048b0c537b5989b58eb3d59c27
+- id: doi:10.1098/rspb.2016.0834
+  title: 'Invasion of two tick-borne diseases across New England: harnessing human
+    surveillance data to capture underlying ecological invasion processes'
+  authors:
+  - Katharine S. Walter
+  - Kim M. Pepin
+  - Colleen T. Webb
+  - Holly D. Gaff
+  - Peter J. Krause
+  - Virginia E. Pitzer
+  - Maria A. Diuk-Wasser
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2016-06-15'
+  link: https://doi.org/gmwz9p
+  image: images/paper_images/lyme_map.jpg
+  tags:
+  - vectors
+  - Lyme disease
+  - climate change
+  - dynamic models
+  _cache: b392090d51ebc274051c603a184a40d05420d7a8eb883c1ffd66340ba2cbff21
+- id: doi:10.1186/s12864-015-1634-x
+  title: 'Whole genome capture of vector-borne pathogens from mixed DNA samples: a
+    case study of Borrelia burgdorferi'
+  authors:
+  - Giovanna Carpi
+  - Katharine S. Walter
+  - Stephen J. Bent
+  - Anne Gatewood Hoen
+  - Maria Diuk-Wasser
+  - Adalgisa Caccone
+  publisher: BMC Genomics
+  date: '2015-06-06'
+  link: https://doi.org/f7qb6w
+  tags:
+  - vectors
+  - Lyme disease
+  - genomics
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1186%2Fs12864-015-1634-x/MediaObjects/12864_2015_1634_Fig1_HTML.gif?as=webp
+  _cache: 15a3f4fc9d33d42f09ff7ff0801d29ada536f97b9208a109209a03d01ab2e955
+- id: doi:10.1603/ME13097
+  title: 'Microhabitat Partitioning of<i>Aedes simpsoni</i>(Diptera: Culicidae)'
+  authors:
+  - Katharine S. Walter
+  - Julia E. Brown
+  - Jeffrey R. Powell
+  publisher: Journal of Medical Entomology
+  date: '2014-05-01'
+  link: https://doi.org/f522cn
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/51/3/10.1603_ME13097/3/m_jmedent51-0596-fig1.jpeg?Expires=1672915485&Signature=bOq0B703kdLlIdYP0R3D~DqdpNl854Wpfh5zRi6DKm5rlL5X1rBLF1CsyezgiYdkm3ZfvdJ7gkyamrWFjrodaAh-NJqGoe-pst5Z7ksrUDSrs9TS7fD6QuI9Awzi4aGLjE4JGBZ~oZbjDo3zIynFuu9GUNvo-i8JeDZFWDDBk6cmpY~JgEj3z9yTZTwrhouhSen22Dt79GCNJfL~D-G8YW-BOeUlmdad-zTIphedPPKWIkeUZM5LmE6oNjg7ErEoMoBSZUtuzbBYxtP8SoPlQChBGbmg7dL7autQ8xgLg5zgRVaINE8hQz6fTNNOvbbOWSYWzJOLaGTNRRz-05Qh1Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  tags:
+  - vectors
+  _cache: e58471a5cfc78858c491095022acaa26be3fa3ae86fccd78e4089c2d2725e07c
+- id: doi:10.1128/JVI.00256-09
+  title: "HLA Class I Subtype-Dependent Expansion of KIR3DS1\n            <sup>+</sup>\n\
+    \            and KIR3DL1\n            <sup>+</sup>\n            NK Cells during\
+    \ Acute Human Immunodeficiency Virus Type 1 Infection"
+  authors:
+  - Galit Alter
+  - Suzannah Rihn
+  - Katharine Walter
+  - Anne Nolting
+  - Maureen Martin
+  - Eric S. Rosenberg
+  - Jeffrey S. Miller
+  - Mary Carrington
+  - Marcus Altfeld
+  publisher: Journal of Virology
+  date: '2009-07-01'
+  link: https://doi.org/fmd7hs
+  tags:
+  - HIV
+  image: https://journals.asm.org/cms/10.1128/JVI.00256-09/asset/67caf011-3449-4f36-ba4c-e8276ccc33d4/assets/graphic/zjv0130920270001.jpeg
+  _cache: dd23d9c10b76070244bb7aa1e712d87dd02256c93d224974e3c943f064205a3f

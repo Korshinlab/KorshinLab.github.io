@@ -1,0 +1,74 @@
+### basic settings
+
+# site properties and page defaults
+title: Evo-Epi Laboratory
+subtitle: at the University of Utah
+description: epidemiology · evolution · environmental change
+logo: images/logo_white.svg
+logo-text: true
+header: none
+header-dark: false
+footer: none
+baseurl: /
+
+# site social media and other links
+links:
+  email: katharine.walter@hsc.utah.edu
+  google-scholar: https://scholar.google.com/citations?user=YVa4e_UAAAAJ&hl=en&inst=8389273007308439986
+  github: ksw9
+  link: https://ugive.app.utah.edu/designation/2787?specialInstructions=Evo-Epi%20Lab%20MD00723-40165
+
+### advanced settings
+
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
+
+# default front matter parameters for markdown files
+defaults:
+  # all markdown files
+  - scope:
+      path: ""
+    values:
+      layout: default
+  # markdown files in /_members
+  - scope:
+      type: "members"
+    values:
+      layout: member
+  # markdown files in /_posts
+  - scope:
+      type: "posts"
+    values:
+      layout: post
+
+# collections
+collections:
+  members:
+    output: true
+
+# sass settings
+sass:
+  sass_dir: css
+
+# syntax highlighting
+highlighter: rouge
+
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null
