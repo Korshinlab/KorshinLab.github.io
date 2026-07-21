@@ -15,8 +15,8 @@ undergrad:
   text: Undergraduate Student
 
 ms:
-  icon: fas fa-dog
-  text: Master's student
+  icon: fas fa-user-graduate
+  text: Master's Student
 
 ra:
   icon: fas fa-glasses
@@ -27,5 +27,5 @@ mascot:
   text: Mascot
 
 alumni:
-  icon: fas fa-glasses
-  text: Mascot
+  icon: fas fa-clock-rotate-left
+  text: Alumni

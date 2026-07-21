@@ -1,8 +1,8 @@
 ---
 name: Geneva Bernsten
 image: images/team/bernsten.jpg
-description: PhD Student
-role: phd
+description: Alumni · MS
+role: alumni
 ---
 
 _Bio coming soon._

@@ -1,8 +1,8 @@
 ---
 name: Lucas Munson
 image: images/team/munson.jpg
-description: PhD Student
-role: phd
+description: Master's Student (Thesis)
+role: ms
 ---
 
 _Bio coming soon._

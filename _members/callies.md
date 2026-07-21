@@ -1,8 +1,8 @@
 ---
 name: Nate Callies
 image: images/team/callies.jpg
-description: PhD Student
-role: phd
+description: Undergraduate
+role: undergrad
 ---
 
 _Bio coming soon._

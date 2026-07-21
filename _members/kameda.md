@@ -1,8 +1,8 @@
 ---
 name: Toko Kameda
 image: images/team/kameda.jpg
-description: PhD Student
-role: phd
+description: Undergraduate
+role: undergrad
 ---
 
 _Bio coming soon._
