@@ -1,0 +1,32 @@
+---
+name: Gregory V. Korshin, PhD
+image: images/team/korshin.jpg
+description: PI
+role: pi
+links:
+  email: korshin@uw.edu
+  google-scholar: https://scholar.google.com/citations?user=Mu_zly4AAAAJ&hl=en
+aliases:
+  - Gregory V. Korshin
+  - Gregory Korshin
+  - GV Korshin
+  - G Korshin
+---
+
+Gregory is a Professor of Civil and Environmental Engineering at the University of Washington, where his research sits at the intersection of environmental chemistry and water infrastructure. His group develops optical and electrochemical methods to characterize and monitor water quality, with a focus on the behavior of natural organic matter in drinking water systems and its response to chemical treatment.
+
+A central thread of his work is understanding the formation of disinfection byproducts during chlorination, the degradation of organic contaminants in advanced oxidation processes, and the corrosion of materials in water distribution systems. He is also known for pioneering the use of UV and fluorescence spectroscopy to track water quality in real time, work that continues to inform how utilities safeguard drinking water.
+
+Beyond the laboratory, Gregory is an accomplished oil painter. The same eye for color and light that shapes his spectroscopic research carries into his canvases, and a selection of his paintings is shown below.
+
+## Artwork
+
+{%
+  include gallery.html
+  image1="images/art/korshin_1.jpg"
+  tooltip1="Oil painting by Gregory Korshin"
+  image2="images/art/korshin_2.jpg"
+  tooltip2="Oil painting by Gregory Korshin"
+  image3="images/art/korshin_3.jpg"
+  tooltip3="Oil painting by Gregory Korshin"
+%}
