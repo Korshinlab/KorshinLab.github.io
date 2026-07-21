@@ -3,6 +3,7 @@ name: Gregory V. Korshin, PhD
 image: images/team/korshin.jpg
 description: PI
 role: pi
+order: 1
 links:
   email: korshin@uw.edu
   google-scholar: https://scholar.google.com/citations?user=Mu_zly4AAAAJ&hl=en

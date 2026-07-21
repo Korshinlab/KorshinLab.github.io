@@ -39,6 +39,12 @@ nav:
   component="portrait"
   filters="role: undergrad"
 %}
+
+{% include section.html %}
+
+## Alumni
+{:.center}
+
 {%
   include list.html
   data="members"
