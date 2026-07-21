@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# epidemiology · evolution · environmental change
+# engineering system · environmental chemistry · electrochemistry
 
 
 {:.center}
@@ -13,7 +13,7 @@ title: Home
 
 {% include section.html %}
 
-Pathogen evolution creates an extraordinary epidemiological record and staggering public health challenges. Our group develops and applies evolutionary approaches to answer open questions about pathogen transmission and epidemiological dynamics. We focus on tuberculosis and pathogens linked to the rapidly changing climate in the American West with a goal of directly informing public health in low-income settings.  
+Renewable natural gas (RNG) recovered from landfills is a growing source of clean energy, but its production leaves behind complex, contaminated byproducts—including landfill gas condensate and gas treatment solids—that are difficult to manage. Our group develops and applies engineering and electrochemical approaches to purify and detoxify these waste streams. We investigate their underlying reaction mechanisms, with a particular focus on the role of sulfur in organometallic cycling, and translate that understanding into practical technologies—including electrochemical treatment and microelectrolysis—for the harmless treatment of these byproducts.  
 
 {:.center} 
 

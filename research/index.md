@@ -5,19 +5,19 @@ nav:
   tooltip: What we study
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <i class="fas fa-flask"></i>Research
 
-We develop and apply evolutionary approaches to answer open questions about pathogen transmission & epidemiological dynamics with a current focus on M. tuberculosis. Our goal is to directly inform public health in low-income settings.
+We develop engineering and electrochemical approaches to treat and detoxify the byproducts of renewable natural gas (RNG) production from landfills. Our goal is to turn difficult, contaminated waste streams into safely managed—and, where possible, recoverable—resources.
 
 {% include section.html %}
-# Locating tuberculosis (TB) transmission
+# Purifying landfill RNG byproducts
 
-TB kills more people than any other infectious disease. TB is preventable and curable, yet persists in marginalized populations excluded from access to healthcare and other critical social services. It is difficult to identify where the TB bacterium is transmitted and therefore, the best methods to prevent transmission. With researchers in Brazil and Paraguay, we sequence M. tuberculosis genomes to reconstruct transmission chains and identify key locations to focus TB prevention measures. 
+Renewable natural gas recovered from landfills is a growing source of clean energy, but its production generates contaminated byproducts—most notably landfill gas condensate and gas treatment solids—that are difficult and costly to manage. We characterize the composition of these complex waste streams and develop treatment processes that remove contaminants and render the residuals safe for disposal or reuse.
 
-# Investigating multiple scales of pathogen diversity
+# Reaction mechanisms and the role of sulfur
 
-Pathogens are constantly evolving and individual infections often contain diverse populations of pathogens, within-host variation. Yet most genomic epidemiology studies rely on consensus sequences, generating a single representative genome, discarding potentially valuable epidemiological information. We have integrated deep sequencing and epidemiological data to measure the epidemiological information in SARS-CoV-2 within-host variation. We are currently developing approaches to measure within-host M. tuberculosis use this information to study transmission.    
+Effective treatment begins with understanding what happens at the molecular level. We investigate the underlying chemistry of these byproducts, with a particular focus on how sulfur drives organometallic cycling—the transformations that govern the mobility, reactivity, and ultimate fate of metals in these systems. These mechanistic insights guide the design of more effective and more selective treatment technologies.
 
-# Pathogen emergence linked to climate change in the American West
+# Electrochemical and microelectrolysis treatment
 
-Climate change has been implicated in the emergence of several fungal pathogens, including Valley fever fungus Coccidioides, a major, environmentally-acquired cause of pneumonia in the American West. The burden of Valley fever disease is expected to dramatically increase under climate change, yet we don’t currently know the current distribution of Coccidioides nor how and where it is expected to spread under climate change. With Coccidioides genomes, we are reconstructing the emergence history of the fungus in Utah in order to inform projections of its future spread. 
+We translate mechanistic understanding into practical engineering technologies. Using electrochemical methods and microelectrolysis, we develop scalable processes to detoxify RNG byproducts and neutralize their hazardous components, working toward harmless treatment that protects both public health and the environment.

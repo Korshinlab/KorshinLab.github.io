@@ -5,9 +5,9 @@ nav:
   tooltip: Our publications
 ---
 
-# <i class="fas fa-microscope"></i>Publications
+# <i class="fas fa-book-open"></i>Publications
 
-We develop and apply evolutionary approaches to answer open questions about pathogen transmission & epidemiological dynamics with a current focus on M. tuberculosis. Our goal is to directly inform public health in low-income settings.
+Our recent work spans the treatment of landfill gas byproducts, the chemistry of natural organic matter and disinfection byproducts, and electrochemical and spectroscopic approaches to water quality. Selected publications from the past five years are listed below.
 
 {% include section.html %}
 
