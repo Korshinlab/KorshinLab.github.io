@@ -79,27 +79,20 @@ nav:
   width="500px"
 %}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html %}
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by funding from the following organizations.
 {:.center}
 
-{%
-  include gallery.html
-  style="square"
-
-  image1="images/3i.jpg"
-  link1="https://uofuhealth.utah.edu/immunology-inflammation-infectious-diseases"
-  tooltip1="University of Utah 3i Initiative"
-
-  image2="https://www.niaid.nih.gov/themes/custom/niaid-drupal-theme/patternlab/src/images/global/niaid/logo-niaid.svg"
-  link2="https://www.niaid.nih.gov/"
-  tooltip2="NIH/NIAID"
-
-  image3="https://wilkescenter.utah.edu/wp-content/uploads/sites/42/2023/07/The-Wilkes-Center-Logo_main-black-1536x424.png"
-  link3="https://wilkescenter.utah.edu/"
-  tooltip3="Wilkes Center for Climate Science & Policy"
-
-%}
+{::nomarkdown}
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:stretch;gap:30px;margin:40px 0;">
+  <a href="https://www.nsf.gov/" data-tooltip="U.S. National Science Foundation" style="display:flex;align-items:center;justify-content:center;width:230px;height:140px;padding:24px;background:#ffffff;border-radius:14px;box-shadow:0 3px 12px rgba(0,0,0,0.15);">
+    <img src="{{ 'images/funding/nsf.png' | relative_url }}" alt="U.S. National Science Foundation" style="max-width:100%;max-height:100%;object-fit:contain;" />
+  </a>
+  <a href="https://kingcounty.gov/" data-tooltip="King County, Washington" style="display:flex;align-items:center;justify-content:center;width:230px;height:140px;padding:24px;background:#14432a;border-radius:14px;box-shadow:0 3px 12px rgba(0,0,0,0.15);">
+    <img src="{{ 'images/funding/king-county.svg' | relative_url }}" alt="King County, Washington" style="max-width:100%;max-height:100%;object-fit:contain;" />
+  </a>
+</div>
+{:/}
