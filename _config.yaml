@@ -48,7 +48,6 @@ defaults:
 collections:
   members:
     output: true
-    sort_by: order
 
 # sass settings
 sass:

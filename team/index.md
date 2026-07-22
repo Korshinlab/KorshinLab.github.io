@@ -14,30 +14,47 @@ nav:
   data="members"
   component="portrait"
   filters="role: pi"
+  sort="order"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: postdoc"
+  sort="order"
 %}
+
+## PhD Students
+{:.center}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
+  sort="order"
 %}
+
+## Master's Students
+{:.center}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: ms"
+  sort="order"
 %}
+
+## Undergraduate Students
+{:.center}
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: undergrad"
+  sort="order"
 %}
 
 {% include section.html %}
@@ -50,6 +67,7 @@ nav:
   data="members"
   component="portrait"
   filters="role: alumni"
+  sort="order"
 %}
 {:.center}
 

@@ -10,6 +10,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2468584425000418-ga1_lrg.jpg
 
 - id: doi:10.1038/s41467-025-60510-0
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-60510-0/MediaObjects/41467_2025_60510_Fig1_HTML.png
 
 - id: doi:10.1021/acs.est.5c01019
 
@@ -82,6 +83,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653522021579-ga1_lrg.jpg
 
 - id: doi:10.1038/s41545-022-00184-z
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41545-022-00184-z/MediaObjects/41545_2022_184_Fig1_HTML.png
 
 - id: doi:10.1016/j.chemosphere.2022.134728
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653522012218-ga1_lrg.jpg
@@ -109,6 +111,7 @@
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0045653521005129-fx1_lrg.jpg
 
 - id: doi:10.1371/journal.pone.0251664
+  image: https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0251664.g001&size=large
 
 - id: doi:10.1016/j.chemosphere.2020.129241
   image: https://ars.els-cdn.com/content/image/1-s2.0-S004565352033438X-fx1_lrg.jpg
@@ -118,3 +121,4 @@
 - id: doi:10.1080/15422119.2021.1887223
 
 - id: doi:10.1007/s41207-021-00243-w
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs41207-021-00243-w/MediaObjects/41207_2021_243_Figa_HTML.png

@@ -52,6 +52,7 @@
   publisher: Nature Communications
   date: '2025-06-04'
   link: https://doi.org/10.1038/s41467-025-60510-0
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-60510-0/MediaObjects/41467_2025_60510_Fig1_HTML.png
 - id: https://doi.org/10.1021/acs.est.5c01019
   title: Absorptivity Inversely Proportional to Spectral Slope in CDOM
   authors:
@@ -428,6 +429,7 @@
   publisher: npj Clean Water
   date: '2022-08-25'
   link: https://doi.org/10.1038/s41545-022-00184-z
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41545-022-00184-z/MediaObjects/41545_2022_184_Fig1_HTML.png
 - id: https://doi.org/10.1016/j.chemosphere.2022.134728
   title: Active-chlorine-mediated oxidation of 5-fluorouracil on a hierarchically ordered macroporous RuO2 electrode
   authors:
@@ -565,6 +567,7 @@
   publisher: PLOS ONE
   date: '2021-05-20'
   link: https://doi.org/10.1371/journal.pone.0251664
+  image: https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0251664.g001&size=large
 - id: https://doi.org/10.1016/j.chemosphere.2020.129241
   title: Interpretation of the formation of unstable halogen-containing disinfection by-products based on the differential absorbance spectroscopy approach
   authors:
@@ -616,3 +619,4 @@
   publisher: Euro-Mediterranean Journal for Environmental Integration
   date: '2021-02-10'
   link: https://doi.org/10.1007/s41207-021-00243-w
+  image: https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs41207-021-00243-w/MediaObjects/41207_2021_243_Figa_HTML.png
