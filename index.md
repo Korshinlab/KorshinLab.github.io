@@ -19,9 +19,9 @@ Renewable natural gas (RNG) recovered from landfills is a growing source of clea
 
 {%
   include gallery.html
-  image1="images/research/mobility_graphical_abstract.gif"
-  link1="research"
-  tooltip1="Our research"
+  image1="images/action/selfie.jpg"
+  link1="team"
+  tooltip1="Meet our team"
   image2="images/research/dma_removal_mechanism.png"
   link2="research"
   tooltip2="Proposed DMA removal mechanism in the ZVI/PAC system"
