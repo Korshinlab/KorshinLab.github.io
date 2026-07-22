@@ -6,7 +6,7 @@ role: pi
 order: 1
 links:
   email: korshin@uw.edu
-  google-scholar: https://scholar.google.com/citations?user=Mu_zly4AAAAJ&hl=en
+  google-scholar: Mu_zly4AAAAJ
 aliases:
   - Gregory V. Korshin
   - Gregory Korshin
