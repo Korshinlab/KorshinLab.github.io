@@ -63,6 +63,7 @@
   publisher: Environmental Science & Technology
   date: '2025-04-01'
   link: https://doi.org/10.1021/acs.est.5c01019
+  image: images/paper_images/acs-est-5c01019.gif
 - id: https://doi.org/10.1016/j.jece.2025.115916
   title: 'Use of fluorescence for real-time monitoring of contaminants of emerging concern in (waste)water: Perspectives for sensors implementation and process control'
   authors:
@@ -121,6 +122,7 @@
   publisher: ISPRS Journal of Photogrammetry and Remote Sensing
   date: '2024-08-01'
   link: https://doi.org/10.1016/j.isprsjprs.2024.05.026
+  image: images/paper_images/isprsjprs-2024-05-026.jpg
 - id: https://doi.org/10.1016/j.scitotenv.2024.172896
   title: 'Electro living membrane bioreactor for highly efficient wastewater treatment and fouling mitigation: Influence of current density on process performances'
   authors:
@@ -223,6 +225,7 @@
   publisher: ACS ES&T Water
   date: '2023-12-09'
   link: https://doi.org/10.1021/acsestwater.3c00536
+  image: images/paper_images/acsestwater-3c00536.gif
 - id: https://doi.org/10.1016/j.chemosphere.2023.140352
   title: Characterizing photochemical production carboxyl content of dissolved organic matters using absorbance spectroscopy combined with FT-ICR MS
   authors:
@@ -277,6 +280,7 @@
   publisher: ACS ES&T Water
   date: '2023-09-04'
   link: https://doi.org/10.1021/acsestwater.3c00296
+  image: images/paper_images/acsestwater-3c00296.gif
 - id: https://doi.org/10.1021/acsestwater.3c00257
   title: Bromide Catalyzes the Transformation of Nitrite by Sulfate Radical Oxidation
   authors:
@@ -287,6 +291,7 @@
   publisher: ACS ES&T Water
   date: '2023-08-17'
   link: https://doi.org/10.1021/acsestwater.3c00257
+  image: images/paper_images/acsestwater-3c00257.gif
 - id: https://doi.org/10.1016/j.scitotenv.2023.163965
   title: Unraveling microbial community by next-generation sequencing in living membrane bioreactors for wastewater treatment
   authors:
@@ -389,6 +394,7 @@
   publisher: Environmental Science & Technology
   date: '2022-12-01'
   link: https://doi.org/10.1021/acs.est.2c06821
+  image: images/paper_images/acs-est-2c06821.gif
 - id: https://doi.org/10.3390/environsciproc2022021077
   title: 'Sewage Sludge-Derived Biochar for Micropollutant Removal: A Brief Overview with Emphasis on European Water Policy'
   authors:
@@ -454,6 +460,7 @@
   publisher: Environmental Science & Technology
   date: '2022-05-12'
   link: https://doi.org/10.1021/acs.est.2c00702
+  image: images/paper_images/acs-est-2c00702.gif
 - id: https://doi.org/10.1016/j.chemosphere.2021.133193
   title: Effect of chlorination on the characteristics of effluent organic matter and the phototransformation of sulfamethoxazole in secondary wastewater
   authors:
