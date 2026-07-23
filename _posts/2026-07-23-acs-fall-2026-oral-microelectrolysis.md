@@ -1,0 +1,15 @@
+---
+title: Oral presentation on micro-electrolysis of landfill gas condensate at ACS Fall 2026
+tags:
+  - conference
+author: Korshin Laboratory
+---
+
+Our group will give an oral presentation at **ACS Fall 2026** (August 23–27, 2026).
+
+**"Beyond removal: Fate, mechanisms, and risks of arsenic and antimony during micro-electrolysis treatment of landfill gas condensate"**
+
+The talk is part of the session *Advanced Materials for Environmental Remediation*, organized by the Division of Environmental Chemistry (ENVR).
+
+**When:** Monday, August 24, 2026, 3:55 – 4:10 PM
+**Where:** Room N137, McCormick Place Convention Center
