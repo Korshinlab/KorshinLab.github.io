@@ -11,8 +11,11 @@ title: Home
 
 {% include section.html %}
 
-Renewable natural gas (RNG) recovered from landfills is a growing source of clean energy, but its production leaves behind complex, contaminated byproducts—including landfill gas condensate and gas treatment solids—that are difficult to manage. Our group develops and applies engineering and electrochemical approaches to purify and detoxify these waste streams. We investigate their underlying reaction mechanisms, with a particular focus on the role of sulfur in organometallic cycling, and translate that understanding into practical technologies—including electrochemical treatment and microelectrolysis—for the harmless treatment of these byproducts.
-{:.center}
+Our group works at the intersection of environmental chemistry and engineering, building both the tools and the understanding needed to keep water safe as it moves through natural and engineered systems. We use optical and electrochemical methods—including differential UV–Vis and fluorescence spectroscopy—to characterize natural organic matter, track the formation of disinfection byproducts, and follow how metals and contaminants transform during treatment. That fundamental insight feeds directly into the design of practical technologies for drinking water, wastewater, and industrial waste streams.
+{:style="max-width:780px;margin:0 auto 1.1em;text-align:left;"}
+
+Our current flagship effort centers on **renewable natural gas (RNG)** recovered from landfills. RNG is a fast-growing source of clean energy, but producing it leaves behind complex, contaminated byproducts—notably landfill gas condensate and gas treatment solids—that are difficult and costly to manage. We are resolving the underlying chemistry of these waste streams, with particular attention to the role of sulfur in organometallic cycling, and translating that understanding into scalable technologies such as microelectrolysis and electrochemical oxidation that render the byproducts harmless.
+{:style="max-width:780px;margin:0 auto;text-align:left;"}
 
 {::nomarkdown}
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:35px 0;">
