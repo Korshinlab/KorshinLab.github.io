@@ -20,16 +20,16 @@ Gregory is a Professor of Civil and Environmental Engineering at the University 
 
 A central thread of his work is understanding the formation of disinfection byproducts during chlorination, the degradation of organic contaminants in advanced oxidation processes, and the corrosion of materials in water distribution systems. He is also known for pioneering the use of UV and fluorescence spectroscopy to track water quality in real time, work that continues to inform how utilities safeguard drinking water.
 
-Beyond the laboratory, Gregory is an accomplished oil painter. The same eye for color and light that shapes his spectroscopic research carries into his canvases, and a selection of his paintings is shown below.
+Beyond the laboratory, Gregory is an accomplished artist. The same eye for color and light that shapes his spectroscopic research carries into his artwork, and a selection of his pieces is shown below.
 
 ## Artwork
 
 {%
   include gallery.html
   image1="images/art/korshin_1.jpg"
-  tooltip1="Oil painting by Gregory Korshin"
+  tooltip1="Artwork by Gregory Korshin"
   image2="images/art/korshin_2.jpg"
-  tooltip2="Oil painting by Gregory Korshin"
+  tooltip2="Artwork by Gregory Korshin"
   image3="images/art/korshin_3.jpg"
-  tooltip3="Oil painting by Gregory Korshin"
+  tooltip3="Artwork by Gregory Korshin"
 %}
