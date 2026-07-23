@@ -30,7 +30,7 @@ Landfill leachate and gas condensate carry arsenic together with a suite of co-o
 Recovering renewable natural gas from landfills mobilizes arsenic and antimony through a series of transformations that remain poorly understood. Using X-ray absorption spectroscopy (XANES/EXAFS), quantum-chemical modeling, and targeted experiments, we map how these elements partition between gas, condensate, and solid phases — with particular attention to the role of sulfur in organometallic cycling — to identify where they can be intercepted.
 {:style="max-width:800px;margin:0 auto 0.8em;text-align:left;"}
 
-**Led by** [Yage Li]({{ '/members/li.html' | relative_url }}) and Po-An Chen
+**Led by** [Yage Li]({{ '/members/li.html' | relative_url }}) and [Po-An Chen]({{ '/members/chen-poan.html' | relative_url }})
 {:style="max-width:800px;margin:0 auto 0.5em;text-align:left;"}
 
 *Related work:* [Speciation of arsenic in landfill gas condensate (XANES/EXAFS)](https://doi.org/10.1016/j.jhazmat.2022.130522) &middot; [Biological desulfurization of biogas](https://doi.org/10.1016/j.scitotenv.2023.164689) &middot; [Poster at ACS Fall 2026]({{ '/research-activity' | relative_url }})
