@@ -1,6 +1,6 @@
 ---
 name: Po-An Chen
-image: images/placeholder.svg
+image: images/team/chen-poan.jpg
 description: Alumni · Visiting Student
 role: alumni
 order: 13
