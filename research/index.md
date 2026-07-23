@@ -22,7 +22,7 @@ Landfill leachate and gas condensate carry arsenic together with a suite of co-o
 **Led by** [Annapaola Panico]({{ '/members/panico.html' | relative_url }}) and [Lucas Munson]({{ '/members/munson.html' | relative_url }})
 {:style="max-width:800px;margin:0 auto 0.5em;text-align:left;"}
 
-*Related work:* [Speciation of arsenic in landfill gas condensate (XANES/EXAFS)](https://doi.org/10.1016/j.jhazmat.2022.130522) &middot; [Electrochemical treatment of landfill leachates](https://doi.org/10.1016/j.watres.2023.119702) &middot; [Removal of dimethylarsinic acid in the Fe/C system](https://doi.org/10.1016/j.watres.2022.118093)
+*Related work:* [Speciation of arsenic in landfill gas condensate (XANES/EXAFS)](https://doi.org/10.1016/j.jhazmat.2022.130522) &middot; [Electrochemical treatment of landfill leachates](https://doi.org/10.1016/j.watres.2023.119702) &middot; [Removal of dimethylarsinic acid in the Fe/C system](https://doi.org/10.1016/j.watres.2022.118093) &middot; [Talk at ACS Fall 2026]({{ '/research-activity' | relative_url }})
 {:style="max-width:800px;margin:0 auto 1.4em;text-align:left;font-size:0.92em;"}
 
 ### Cycling of arsenic and antimony in renewable natural gas operations
