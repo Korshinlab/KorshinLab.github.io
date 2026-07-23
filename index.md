@@ -14,6 +14,17 @@ title: Home
 Renewable natural gas (RNG) recovered from landfills is a growing source of clean energy, but its production leaves behind complex, contaminated byproducts—including landfill gas condensate and gas treatment solids—that are difficult to manage. Our group develops and applies engineering and electrochemical approaches to purify and detoxify these waste streams. We investigate their underlying reaction mechanisms, with a particular focus on the role of sulfur in organometallic cycling, and translate that understanding into practical technologies—including electrochemical treatment and microelectrolysis—for the harmless treatment of these byproducts.
 {:.center}
 
+{::nomarkdown}
+<div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:35px 0;">
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Water treatment</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Renewable energy</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Environmental chemistry</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Electrochemistry</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">NOM characterization</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Engineering systems</span>
+</div>
+{:/}
+
 [Our research](research)
 {:.center}
 
