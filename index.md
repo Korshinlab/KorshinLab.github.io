@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# engineering system · environmental chemistry · electrochemistry
+# water treatment · environmental chemistry · renewable energy
 {:.center}
 
 {% include section.html full=true %}
@@ -16,12 +16,14 @@ Renewable natural gas (RNG) recovered from landfills is a growing source of clea
 
 {::nomarkdown}
 <div style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin:35px 0;">
-  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Water treatment</span>
-  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Renewable energy</span>
-  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Environmental chemistry</span>
-  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Electrochemistry</span>
   <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">NOM characterization</span>
-  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Engineering systems</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Disinfection byproducts</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">UV–Vis &amp; fluorescence spectroscopy</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Electrochemical treatment</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Advanced oxidation processes</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Landfill gas condensate</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Metal speciation &amp; corrosion</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Emerging contaminants</span>
 </div>
 {:/}
 

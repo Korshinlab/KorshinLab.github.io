@@ -18,6 +18,18 @@ home-page:
   tooltip: Home page
   link: $LINK
 
+faculty-page:
+  icon: fas fa-address-card
+  text: Faculty Page
+  tooltip: UW CEE faculty page
+  link: $LINK
+
+cv:
+  icon: fas fa-file-alt
+  text: CV
+  tooltip: Curriculum vitae
+  link: $LINK
+
 email:
   icon: fas fa-envelope
   text: Email

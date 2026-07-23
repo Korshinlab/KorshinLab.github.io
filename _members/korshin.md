@@ -7,6 +7,8 @@ order: 1
 links:
   email: korshin@uw.edu
   google-scholar: Mu_zly4AAAAJ
+  faculty-page: https://www.ce.washington.edu/facultyfinder/gregory-vladimir-korshin
+  cv: https://facultydb.engr.washington.edu/api/cv/gregory-vladimir-korshin
 aliases:
   - Gregory V. Korshin
   - Gregory Korshin
