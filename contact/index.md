@@ -25,6 +25,7 @@ nav:
   link="+12062282476"
   style="button"
 %}
+{:.center}
 
 The Korshin Laboratory is part of the [Department of Civil & Environmental Engineering](https://www.ce.washington.edu/) at the [University of Washington](https://www.washington.edu/) in Seattle. Our research develops engineering, electrochemical, and spectroscopic approaches to treat contaminated water and waste streams—from landfill gas byproducts to natural organic matter and disinfection byproducts—and to turn that science into practical solutions for safeguarding water quality.
 
