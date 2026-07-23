@@ -136,3 +136,23 @@ Our work is built on long-standing partnerships with research groups around the 
   </span>
 </div>
 {:/}
+
+{% include section.html %}
+
+## Partner institutions
+
+Our most frequent collaborators, ranked by the number of jointly authored publications.
+{:style="max-width:820px;margin:0 auto 1.2em;text-align:left;"}
+
+| Institution | Location | Joint papers | Research focus |
+| --- | --- | ---: | --- |
+| **Peking University** | Beijing, China | 43 | Chromophoric dissolved organic matter; water treatment and disinfection |
+| **University of Catania** | Catania, Italy | 22 | Disinfection byproducts; spectroscopic water-quality monitoring |
+| **University of Salerno** | Fisciano, Italy | 16 | Membrane processes; wastewater-based epidemiology |
+| **Kazan National Research Technological University** | Kazan, Russia | 13 | Quantum-chemical modeling; electrochemical analysis |
+| **Nanjing University** | Nanjing, China | 12 | Advanced oxidation processes; water-quality monitoring |
+| **University of Naples Federico II** | Naples, Italy | 12 | Water treatment and disinfection; marine organic matter |
+| **Seattle University** | Seattle, USA | 12 | Aerosol chemistry; organic pollutants |
+| **CNRS** | Paris, France | 10 | Marine organic matter; trace metals in natural waters |
+| **Khalifa University** | Abu Dhabi, UAE | 10 | Membrane processes; wastewater-based epidemiology |
+| **Sichuan University** | Chengdu, China | 9 | Advanced oxidation processes; pharmaceutical contaminants |
