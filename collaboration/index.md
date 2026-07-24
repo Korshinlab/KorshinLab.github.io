@@ -145,7 +145,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <img class="cc-crest" src="{{ 'images/collaboration/crests/tsinghua.png' | relative_url }}" alt="" />
       <span class="cc-name">Tsinghua University (Shenzhen)</span>
       <span class="cc-meta">Shenzhen, China</span>
-      <span class="cc-person">Manjie Li<a href="https://www.sigs.tsinghua.edu.cn/lmj_en/main.htm" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a></span>
+      <span class="cc-person">Manjie Li<a href="https://scholar.google.com/citations?user=K4DoU34AAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://www.sigs.tsinghua.edu.cn/lmj_en/main.htm" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a></span>
       <span class="cc-focus">Drinking water quality; corrosion in distribution systems</span>
     </span>
   </span>
@@ -209,7 +209,7 @@ Our work is built on partnerships with research groups around the world. Hover o
 | **University of Naples Federico II** — Italy | [Massimiliano Fabbricino](https://scholar.google.com/citations?user=5gLsOqkAAAAJ) | Water treatment; marine organic matter |
 | **Université Paris Cité / IPGP (CNRS)** — France | [Marc Benedetti](https://scholar.google.com/citations?user=xleOQL8AAAAJ) | Marine organic matter; trace metals |
 | **Nanjing University** — China | [Wentao Li](https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html) | Advanced oxidation; water-quality monitoring |
-| **Tsinghua University (Shenzhen)** — China | [Manjie Li](https://www.sigs.tsinghua.edu.cn/lmj_en/main.htm) | Drinking water quality; pipe corrosion |
+| **Tsinghua University (Shenzhen)** — China | [Manjie Li](https://scholar.google.com/citations?user=K4DoU34AAAAJ) | Drinking water quality; pipe corrosion |
 | **Sichuan University** — Chengdu, China | [Hongguang Guo](https://scholar.google.com/citations?user=ptHVn3sAAAAJ) | Advanced oxidation; pharmaceutical contaminants |
 | **Tamkang University** — Taipei, Taiwan | [Chi-Wang Li](https://scholar.google.com/citations?user=pMFl67wAAAAJ) | Membrane and adsorption processes |
 | **Kyungpook National University** — South Korea | [Kwangho Choo](https://scholar.google.com/citations?user=CCHw5e4AAAAJ) | Membrane water and wastewater treatment |
