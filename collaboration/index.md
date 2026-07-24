@@ -189,13 +189,15 @@ Our work is built on partnerships with research groups around the world. Hover o
 
 {::nomarkdown}
 <style>
-.collab-table{width:100%;max-width:960px;margin:0 auto;table-layout:fixed;border-collapse:collapse;font-size:0.95em;}
+.collab-table{width:100%;max-width:1000px;margin:0 auto;table-layout:fixed;border-collapse:collapse;font-size:0.95em;line-height:1.55;}
 .collab-table th:nth-child(1),.collab-table td:nth-child(1){width:32%;}
 .collab-table th:nth-child(2),.collab-table td:nth-child(2){width:26%;}
 .collab-table th:nth-child(3),.collab-table td:nth-child(3){width:42%;}
-.collab-table th{text-align:center;background:rgba(128,128,128,.14);font-weight:700;}
+.collab-table th{text-align:center;background:rgba(128,128,128,.14);font-weight:700;padding:13px 20px;}
+.collab-table td{padding:14px 20px;}
 .collab-table tbody tr:hover{background:rgba(128,128,128,.06);}
 .collab-table td,.collab-table th{vertical-align:top;}
+.collab-table td:last-child{color:#5a616c;}
 </style>
 {:/}
 
