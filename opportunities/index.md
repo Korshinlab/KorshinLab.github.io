@@ -5,7 +5,7 @@ nav:
   tooltip: Join us!
 ---
 
-# <i class="fas fa-people-group"></i>Current Opportunities
+# <i class="fas fa-door-open"></i>Current Opportunities
 
 We are committed to building an inclusive, supportive research community and welcome students from all backgrounds, including those historically underrepresented in engineering and the sciences.
 
