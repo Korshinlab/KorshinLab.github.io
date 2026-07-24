@@ -57,6 +57,17 @@ nav:
   sort="order"
 %}
 
+## High School Students
+{:.center}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: highschool"
+  sort="order"
+%}
+
 {% include section.html %}
 
 ## Former Members
