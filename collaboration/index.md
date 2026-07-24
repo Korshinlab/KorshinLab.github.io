@@ -47,7 +47,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">Peking University</span>
       <span class="cc-meta">Beijing, China</span>
       <span class="cc-person">Mingquan Yan<a href="https://scholar.google.com/citations?user=neZKJlEAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://en.cese.pku.edu.cn/faculty/facultybydepartment/departmentofengineering/26/index.htm" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Mingquan-Yan-2" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Chromophoric dissolved organic matter; water treatment and disinfection</span>
+      <span class="cc-focus">Disinfection byproducts; differential spectroscopy</span>
     </span>
   </span>
 
@@ -59,7 +59,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-meta">Catania, Italy</span>
       <span class="cc-person">Paolo Roccaro<a href="https://www.dicar.unict.it/faculty/paolo.roccaro" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Paolo-Roccaro" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
       <span class="cc-person">Federico Vagliasindi<a href="https://www.dicar.unict.it/faculty/federico.vagliasindi" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Federico-Vagliasindi" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Disinfection byproducts; spectroscopic water-quality monitoring</span>
+      <span class="cc-focus">Emerging contaminants; landfill gas characterization</span>
     </span>
   </span>
 
@@ -70,7 +70,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">University of Salerno</span>
       <span class="cc-meta">Fisciano, Italy</span>
       <span class="cc-person">Vincenzo Naddeo<a href="https://scholar.google.com/citations?user=U4zI1E8AAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://docenti.unisa.it/020364/en/curriculum" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Vincenzo-Naddeo" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Membrane processes; wastewater treatment</span>
+      <span class="cc-focus">PFAS</span>
     </span>
   </span>
 
@@ -81,7 +81,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">Nanjing University</span>
       <span class="cc-meta">Nanjing, China</span>
       <span class="cc-person">Wentao Li<a href="https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Wen-Tao-Li-4" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Advanced oxidation processes; water-quality monitoring</span>
+      <span class="cc-focus">Advanced oxidation processes; online water-quality monitoring</span>
     </span>
   </span>
 
@@ -92,7 +92,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">University of Naples Federico II</span>
       <span class="cc-meta">Naples, Italy</span>
       <span class="cc-person">Massimiliano Fabbricino<a href="https://scholar.google.com/citations?user=5gLsOqkAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://docenti.unina.it/massimiliano.fabbricino" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Massimiliano-Fabbricino" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Water treatment and disinfection; marine organic matter</span>
+      <span class="cc-focus">Disinfection; mass spectrometry</span>
     </span>
   </span>
 
@@ -103,7 +103,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">Université Paris Cité — IPGP (CNRS)</span>
       <span class="cc-meta">Paris, France</span>
       <span class="cc-person">Marc Benedetti<a href="https://scholar.google.com/citations?user=xleOQL8AAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://www.chimie.univ-paris-diderot.fr/fr/2013-02-15-08-48-54/ipgp/marc-benedetti" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Marc-Benedetti" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Marine organic matter; trace metals in natural waters</span>
+      <span class="cc-focus">Natural organic matter; metal complexation</span>
     </span>
   </span>
 
@@ -125,7 +125,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">Sichuan University</span>
       <span class="cc-meta">Chengdu, China</span>
       <span class="cc-person">Hongguang Guo<a href="https://scholar.google.com/citations?user=ptHVn3sAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://acem.scu.edu.cn/info/1027/11848.htm" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a></span>
-      <span class="cc-focus">Advanced oxidation processes; pharmaceutical contaminants</span>
+      <span class="cc-focus">Emerging contaminants</span>
     </span>
   </span>
 
@@ -136,7 +136,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">Tsinghua University (Shenzhen)</span>
       <span class="cc-meta">Shenzhen, China</span>
       <span class="cc-person">Manjie Li<a href="https://scholar.google.com/citations?user=K4DoU34AAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://www.sigs.tsinghua.edu.cn/lmj_en/main.htm" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a></span>
-      <span class="cc-focus">Drinking water quality; corrosion in distribution systems</span>
+      <span class="cc-focus">Internal corrosion</span>
     </span>
   </span>
 
@@ -146,7 +146,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">Tamkang University</span>
       <span class="cc-meta">Taipei, Taiwan</span>
       <span class="cc-person">Chi-Wang Li<a href="https://scholar.google.com/citations?user=pMFl67wAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://www.researchgate.net/profile/Chi-Wang-Li" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Membrane and adsorption processes; water treatment</span>
+      <span class="cc-focus">Differential spectroscopy and adsorption processes</span>
     </span>
   </span>
 
@@ -156,7 +156,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">Kyungpook National University</span>
       <span class="cc-meta">Daegu, South Korea</span>
       <span class="cc-person">Kwangho Choo<a href="https://scholar.google.com/citations?user=CCHw5e4AAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://research.knu.ac.kr/en/persons/kwang-ho-choo/" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Kwang-Ho-Choo" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Membrane water and wastewater treatment</span>
+      <span class="cc-focus">Electrochemical processes</span>
     </span>
   </span>
 
@@ -167,7 +167,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <span class="cc-name">Lehman College, CUNY</span>
       <span class="cc-meta">New York, USA</span>
       <span class="cc-person">Yuemei Ye<a href="https://scholar.google.com/citations?user=S5Q8YKcAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://www.gc.cuny.edu/people/yuemei-ye" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Yuemei-Ye-2" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
-      <span class="cc-focus">Disinfection byproducts; differential UV spectroscopy; PFAS</span>
+      <span class="cc-focus">PFAS</span>
     </span>
   </span>
 </div>
@@ -194,16 +194,16 @@ Our work is built on partnerships with research groups around the world. Hover o
 
 | Institution | Collaborator(s) | Research focus |
 | --- | --- | --- |
-| **Peking University**<br><span class="cc-loc">Beijing, China</span> | [Mingquan Yan](https://scholar.google.com/citations?user=neZKJlEAAAAJ) | Chromophoric dissolved organic matter; water treatment |
-| **University of Catania**<br><span class="cc-loc">Catania, Italy</span> | [Paolo Roccaro](https://www.dicar.unict.it/faculty/paolo.roccaro); [Federico Vagliasindi](https://www.dicar.unict.it/faculty/federico.vagliasindi) | Disinfection byproducts; water-quality monitoring |
-| **University of Salerno**<br><span class="cc-loc">Fisciano, Italy</span> | [Vincenzo Naddeo](https://scholar.google.com/citations?user=U4zI1E8AAAAJ) | Membrane processes; wastewater treatment |
-| **University of Naples Federico II**<br><span class="cc-loc">Naples, Italy</span> | [Massimiliano Fabbricino](https://scholar.google.com/citations?user=5gLsOqkAAAAJ) | Water treatment; marine organic matter |
-| **Université Paris Cité / IPGP (CNRS)**<br><span class="cc-loc">Paris, France</span> | [Marc Benedetti](https://scholar.google.com/citations?user=xleOQL8AAAAJ) | Marine organic matter; trace metals |
-| **Nanjing University**<br><span class="cc-loc">Nanjing, China</span> | [Wentao Li](https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html) | Advanced oxidation; water-quality monitoring |
-| **Tsinghua University (Shenzhen)**<br><span class="cc-loc">Shenzhen, China</span> | [Manjie Li](https://scholar.google.com/citations?user=K4DoU34AAAAJ) | Drinking water quality; pipe corrosion |
-| **Sichuan University**<br><span class="cc-loc">Chengdu, China</span> | [Hongguang Guo](https://scholar.google.com/citations?user=ptHVn3sAAAAJ) | Advanced oxidation; pharmaceutical contaminants |
-| **Tamkang University**<br><span class="cc-loc">Taipei, Taiwan</span> | [Chi-Wang Li](https://scholar.google.com/citations?user=pMFl67wAAAAJ) | Membrane and adsorption processes |
-| **Kyungpook National University**<br><span class="cc-loc">Daegu, South Korea</span> | [Kwangho Choo](https://scholar.google.com/citations?user=CCHw5e4AAAAJ) | Membrane water and wastewater treatment |
+| **Peking University**<br><span class="cc-loc">Beijing, China</span> | [Mingquan Yan](https://scholar.google.com/citations?user=neZKJlEAAAAJ) | Disinfection byproducts; differential spectroscopy |
+| **University of Catania**<br><span class="cc-loc">Catania, Italy</span> | [Paolo Roccaro](https://www.dicar.unict.it/faculty/paolo.roccaro); [Federico Vagliasindi](https://www.dicar.unict.it/faculty/federico.vagliasindi) | Emerging contaminants; landfill gas characterization |
+| **University of Salerno**<br><span class="cc-loc">Fisciano, Italy</span> | [Vincenzo Naddeo](https://scholar.google.com/citations?user=U4zI1E8AAAAJ) | PFAS |
+| **University of Naples Federico II**<br><span class="cc-loc">Naples, Italy</span> | [Massimiliano Fabbricino](https://scholar.google.com/citations?user=5gLsOqkAAAAJ) | Disinfection; mass spectrometry |
+| **Université Paris Cité / IPGP (CNRS)**<br><span class="cc-loc">Paris, France</span> | [Marc Benedetti](https://scholar.google.com/citations?user=xleOQL8AAAAJ) | Natural organic matter; metal complexation |
+| **Nanjing University**<br><span class="cc-loc">Nanjing, China</span> | [Wentao Li](https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html) | Advanced oxidation processes; online water-quality monitoring |
+| **Tsinghua University (Shenzhen)**<br><span class="cc-loc">Shenzhen, China</span> | [Manjie Li](https://scholar.google.com/citations?user=K4DoU34AAAAJ) | Internal corrosion |
+| **Sichuan University**<br><span class="cc-loc">Chengdu, China</span> | [Hongguang Guo](https://scholar.google.com/citations?user=ptHVn3sAAAAJ) | Emerging contaminants |
+| **Tamkang University**<br><span class="cc-loc">Taipei, Taiwan</span> | [Chi-Wang Li](https://scholar.google.com/citations?user=pMFl67wAAAAJ) | Differential spectroscopy and adsorption processes |
+| **Kyungpook National University**<br><span class="cc-loc">Daegu, South Korea</span> | [Kwangho Choo](https://scholar.google.com/citations?user=CCHw5e4AAAAJ) | Electrochemical processes |
 | **Khalifa University**<br><span class="cc-loc">Abu Dhabi, UAE</span> | [Shadi Hasan](https://scholar.google.com/citations?user=_jx8HgIAAAAJ) | Membrane processes; wastewater treatment |
-| **Lehman College, CUNY**<br><span class="cc-loc">New York, USA</span> | [Yuemei Ye](https://scholar.google.com/citations?user=S5Q8YKcAAAAJ) | Disinfection byproducts; differential UV spectroscopy; PFAS |
+| **Lehman College, CUNY**<br><span class="cc-loc">New York, USA</span> | [Yuemei Ye](https://scholar.google.com/citations?user=S5Q8YKcAAAAJ) | PFAS |
 {:.collab-table}
