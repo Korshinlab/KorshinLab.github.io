@@ -31,8 +31,6 @@ The Korshin Laboratory is part of the [Department of Civil & Environmental Engin
 
 We are always glad to hear from prospective students, postdoctoral researchers, and collaborators. The best way to reach us is by email—please feel free to get in touch.
 
-Our lab sits on the traditional lands of the Coast Salish peoples, including the Duwamish Tribe. We honor the relationships these peoples have with this land we occupy, and we seek to minimize the harm done to this land, its people, and its ecology.
-
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
 Department of Civil & Environmental Engineering
