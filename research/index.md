@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-flask"></i>Research
 
-We develop engineering, electrochemical, and spectroscopic approaches to treat and detoxify contaminated water and waste streams, and to understand the chemistry that governs how contaminants move through natural and engineered systems.
+We develop engineering, electrochemical, and spectroscopic approaches to treat and remove contaminated water and waste streams, and to understand the chemistry that governs how contaminants move through natural and engineered systems. We develop novel types of electrochemical and advanced reduction reactors to treat highly complex wastewater, treatment media, and other solids, and to recover valuable elements and reagents from contaminated streams.
 {:style="max-width:800px;margin:0 auto 1.1em;text-align:left;"}
 
 {% include section.html %}
@@ -43,38 +43,3 @@ Rising sea levels are driving saline water into the soils and groundwater surrou
 
 **Led by** [Lauren Koonce]({{ '/members/koonce.html' | relative_url }})
 {:style="max-width:800px;margin:0 auto 1.4em;text-align:left;"}
-
-{% include section.html %}
-
-## <i class="fas fa-check"></i>Completed Projects
-
-A selection of previously funded work, most recent first.
-{:style="max-width:800px;margin:0 auto 1.1em;text-align:left;"}
-
-{::nomarkdown}
-<style>
-.proj-table{width:100%;max-width:900px;margin:0 auto;table-layout:fixed;}
-.proj-table th:nth-child(1),.proj-table td:nth-child(1){width:47%;}
-.proj-table th:nth-child(2),.proj-table td:nth-child(2){width:38%;}
-.proj-table th:nth-child(3),.proj-table td:nth-child(3){width:15%;white-space:nowrap;}
-</style>
-{:/}
-
-| Project | Sponsor | Years |
-| --- | --- | --- |
-| Arsenic in Cedar Hills landfill leachates and gas condensates (Phases I–III) | King County Solid Waste Division | 2019–2022 |
-| Titanium oxalate method for hydrogen peroxide analysis with sulfite present | Teck Resources Ltd. | 2019 |
-| Gelation in Oxy Site soils; impermeable barriers and silica removal | GHD Inc. / CRA Inc. | 2015–2017 |
-| Corrosion evaluation for the Santa Cruz desalination pilot plant | CDM / City of Santa Cruz | 2008 |
-| Lead oxidation: chlorine, chloramine and NOM effects on lead release | NSF (0504447) | 2005–2007 |
-| Inorganics accumulation in drinking water scales and sediments | AwwaRF (3118) | 2005–2006 |
-| Natural organic matter in Washington, D.C. drinking water | Cadmus Group / U.S. EPA | 2006 |
-| Residual hydrogen peroxide in advanced oxidation processes | WateReuse Foundation (WRT 04-019) | 2005–2006 |
-| Effects of pH, corrosion inhibitors and blending on metal release | CDM Inc. | 2004–2006 |
-| Electrochemical treatment system for arsenic removal | AwwaRF (2827) | 2000–2002 |
-| Differential UV spectroscopy for on-line DBP monitoring | AwwaRF (2563) | 1999–2001 |
-| Long-path spectrometer for monitoring chlorination byproducts | NSF (DMI-9960701) | 2000 |
-| Adsorption/membrane filtration for mixed and tank wastes | U.S. DOE (DE-FG07-96ER62313) | 2000 |
-| Electrochemical reactions of halogenated species; dehalogenation | UW Royalty Research Fund (65-3459) | 2000 |
-| Isolation, fractionation and characterization of organic matter | AwwaRF | 1997–1999 |
-{:.proj-table}
