@@ -59,7 +59,7 @@ nav:
 
 {% include section.html %}
 
-## Alumni
+## Former Members
 {:.center}
 
 {%
