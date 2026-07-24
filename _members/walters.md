@@ -1,5 +1,5 @@
 ---
-name: Sam Walters
+name: Samuel Walters
 image: images/team/walters.jpg
 description: MS
 role: alumni
