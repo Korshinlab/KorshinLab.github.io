@@ -90,7 +90,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <img class="cc-crest" src="{{ 'images/collaboration/crests/nanjing.png' | relative_url }}" alt="" />
       <span class="cc-name">Nanjing University</span>
       <span class="cc-meta">Nanjing, China</span>
-      <span class="cc-person">Wentao Li<a href="https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a></span>
+      <span class="cc-person">Wentao Li<a href="https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a><a href="https://www.researchgate.net/profile/Wen-Tao-Li-4" target="_blank" rel="noopener" title="ResearchGate"><i class="fab fa-researchgate"></i></a></span>
       <span class="cc-focus">Advanced oxidation processes; water-quality monitoring</span>
     </span>
   </span>
