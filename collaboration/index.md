@@ -74,16 +74,6 @@ Our work is built on partnerships with research groups around the world. Hover o
     </span>
   </span>
 
-  <span class="collab-pin" style="left:63.64%;top:19.01%" tabindex="0">
-    <span class="collab-star">&#9733;</span>
-    <span class="collab-card">
-      <img class="cc-crest" src="{{ 'images/collaboration/crests/kazan.png' | relative_url }}" alt="" />
-      <span class="cc-name">Kazan National Research Technological University</span>
-      <span class="cc-meta">Kazan, Russia</span>
-      <span class="cc-focus">Quantum-chemical modeling; electrochemical analysis</span>
-    </span>
-  </span>
-
   <span class="collab-pin" style="left:82.99%;top:32.19%" tabindex="0">
     <span class="collab-star">&#9733;</span>
     <span class="collab-card">
@@ -216,5 +206,4 @@ Our work is built on partnerships with research groups around the world. Hover o
 | **Kyungpook National University**<br><span class="cc-loc">Daegu, South Korea</span> | [Kwangho Choo](https://scholar.google.com/citations?user=CCHw5e4AAAAJ) | Membrane water and wastewater treatment |
 | **Khalifa University**<br><span class="cc-loc">Abu Dhabi, UAE</span> | [Shadi Hasan](https://scholar.google.com/citations?user=_jx8HgIAAAAJ) | Membrane processes; wastewater treatment |
 | **Lehman College, CUNY**<br><span class="cc-loc">New York, USA</span> | [Yuemei Ye](https://scholar.google.com/citations?user=S5Q8YKcAAAAJ) | Disinfection byproducts; differential UV spectroscopy; PFAS |
-| **Kazan Nat'l Research Technological University**<br><span class="cc-loc">Kazan, Russia</span> | — | Quantum-chemical modeling; electrochemical analysis |
 {:.collab-table}
