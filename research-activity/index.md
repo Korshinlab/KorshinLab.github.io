@@ -17,6 +17,15 @@ Updates from the group — new papers, awards, conferences, and people joining o
 
 {% include section.html %}
 
+## <i class="fas fa-industry"></i>Reactor Development
+
+We design and build custom electrochemical and advanced reduction reactors to treat complex waste streams and recover valuable elements. Photos of our reactors and setups will be shared here.
+
+_Reactor photos coming soon._
+{:.center}
+
+{% include section.html %}
+
 ## <i class="fas fa-camera"></i>Lab Life
 
 {%
