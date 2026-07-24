@@ -134,7 +134,7 @@ Our work is built on partnerships with research groups around the world. Hover o
       <img class="cc-crest" src="{{ 'images/collaboration/crests/sichuan.png' | relative_url }}" alt="" />
       <span class="cc-name">Sichuan University</span>
       <span class="cc-meta">Chengdu, China</span>
-      <span class="cc-person">Hongguang Guo</span>
+      <span class="cc-person">Hongguang Guo<a href="https://scholar.google.com/citations?user=ptHVn3sAAAAJ" target="_blank" rel="noopener" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a><a href="https://acem.scu.edu.cn/info/1027/11848.htm" target="_blank" rel="noopener" title="Faculty page"><i class="fas fa-link"></i></a></span>
       <span class="cc-focus">Advanced oxidation processes; pharmaceutical contaminants</span>
     </span>
   </span>
@@ -210,7 +210,7 @@ Our work is built on partnerships with research groups around the world. Hover o
 | **Université Paris Cité / IPGP (CNRS)** — France | [Marc Benedetti](https://scholar.google.com/citations?user=xleOQL8AAAAJ) | Marine organic matter; trace metals |
 | **Nanjing University** — China | [Wentao Li](https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html) | Advanced oxidation; water-quality monitoring |
 | **Tsinghua University (Shenzhen)** — China | [Manjie Li](https://www.sigs.tsinghua.edu.cn/lmj_en/main.htm) | Drinking water quality; pipe corrosion |
-| **Sichuan University** — Chengdu, China | Hongguang Guo | Advanced oxidation; pharmaceutical contaminants |
+| **Sichuan University** — Chengdu, China | [Hongguang Guo](https://scholar.google.com/citations?user=ptHVn3sAAAAJ) | Advanced oxidation; pharmaceutical contaminants |
 | **Tamkang University** — Taipei, Taiwan | [Chi-Wang Li](https://scholar.google.com/citations?user=pMFl67wAAAAJ) | Membrane and adsorption processes |
 | **Kyungpook National University** — South Korea | [Kwangho Choo](https://scholar.google.com/citations?user=CCHw5e4AAAAJ) | Membrane water and wastewater treatment |
 | **Khalifa University** — Abu Dhabi, UAE | [Shadi Hasan](https://scholar.google.com/citations?user=_jx8HgIAAAAJ) | Membrane processes; wastewater treatment |
