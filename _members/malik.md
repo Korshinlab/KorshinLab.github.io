@@ -3,7 +3,7 @@ name: Surbhi Malik
 image: images/team/malik.jpg
 description: MS
 role: alumni
-order: 16
+order: 18
 ---
 
 _Bio coming soon._
