@@ -24,6 +24,7 @@ Our current flagship effort centers on **renewable natural gas (RNG)** recovered
   <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">UV–Vis &amp; fluorescence spectroscopy</span>
   <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Electrochemical treatment</span>
   <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Advanced oxidation processes</span>
+  <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Reactor development &amp; resource recovery</span>
   <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Landfill gas condensate</span>
   <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Metal speciation &amp; corrosion</span>
   <span style="padding:9px 18px;border-radius:999px;background:rgba(128,128,128,0.14);border:1px solid rgba(128,128,128,0.28);font-size:0.95em;white-space:nowrap;">Emerging contaminants</span>
