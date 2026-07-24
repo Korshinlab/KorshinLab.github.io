@@ -4,6 +4,10 @@ image: images/team/li.jpg
 description: PhD Student
 role: phd
 order: 3
+links:
+  google-scholar: m55IDY4AAAAJ
+  researchgate: Yage-Li
+  linkedin: yage-li-8609822b7
 ---
 
 Yage is a second-year Ph.D. student from Xi'an, China. Her research focuses on the mechanisms governing sulfur and organometallic cycling, as well as the fate and transport of PFAS under landfill conditions.
