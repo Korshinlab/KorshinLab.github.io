@@ -51,20 +51,30 @@ Rising sea levels are driving saline water into the soils and groundwater surrou
 A selection of previously funded work, most recent first.
 {:style="max-width:800px;margin:0 auto 1.1em;text-align:left;"}
 
+{::nomarkdown}
+<style>
+.proj-table{width:100%;max-width:900px;margin:0 auto;table-layout:fixed;}
+.proj-table th:nth-child(1),.proj-table td:nth-child(1){width:47%;}
+.proj-table th:nth-child(2),.proj-table td:nth-child(2){width:38%;}
+.proj-table th:nth-child(3),.proj-table td:nth-child(3){width:15%;white-space:nowrap;}
+</style>
+{:/}
+
 | Project | Sponsor | Years |
 | --- | --- | --- |
-| Arsenic in Cedar Hills Regional Landfill leachates and gas condensates (Phases I–III) | King County Solid Waste Division | 2019–2022 |
-| Modified titanium oxalate method for hydrogen peroxide analysis in the presence of sulfite | Teck Resources Ltd. | 2019 |
-| Mechanisms of gelation in Oxy Site soils; impermeable barriers and silica removal | GHD Inc. / CRA Inc. | 2015–2017 |
-| Corrosion evaluation for the Santa Cruz seawater desalination pilot plant | CDM / City of Santa Cruz | 2008 |
-| Fundamental mechanisms of lead oxidation: chlorine, chloramine and NOM effects on lead release | U.S. National Science Foundation (0504447) | 2005–2007 |
-| Assessment of inorganics accumulation in drinking water system scales and sediments | AwwaRF (3118) | 2005–2006 |
-| Characterization of natural organic matter in Washington, D.C. drinking water | Cadmus Group / U.S. EPA | 2006 |
-| Detection of residual hydrogen peroxide in advanced oxidation processes | WateReuse Foundation (WRT 04-019) | 2005–2006 |
-| Effects of pH, corrosion inhibitors and blending on copper and lead release | CDM Inc. | 2004–2006 |
-| Electrochemical treatment system for arsenic removal from drinking water | AwwaRF (2827) | 2000–2002 |
-| Differential UV spectroscopy for on-line disinfection byproduct monitoring | AwwaRF (2563) | 1999–2001 |
-| Differential long-path spectrometer for monitoring chlorination byproducts | U.S. National Science Foundation (DMI-9960701) | 2000 |
-| Adsorption/membrane filtration for concentrating contaminants in mixed and tank wastes | U.S. Department of Energy (DE-FG07-96ER62313) | 2000 |
-| Electrochemical reactions of halogenated species and dehalogenation technologies | UW Royalty Research Fund (65-3459) | 2000 |
-| Isolation, fractionation and characterization of natural organic matter in drinking water | AwwaRF | 1997–1999 |
+| Arsenic in Cedar Hills landfill leachates and gas condensates (Phases I–III) | King County Solid Waste Division | 2019–2022 |
+| Titanium oxalate method for hydrogen peroxide analysis with sulfite present | Teck Resources Ltd. | 2019 |
+| Gelation in Oxy Site soils; impermeable barriers and silica removal | GHD Inc. / CRA Inc. | 2015–2017 |
+| Corrosion evaluation for the Santa Cruz desalination pilot plant | CDM / City of Santa Cruz | 2008 |
+| Lead oxidation: chlorine, chloramine and NOM effects on lead release | NSF (0504447) | 2005–2007 |
+| Inorganics accumulation in drinking water scales and sediments | AwwaRF (3118) | 2005–2006 |
+| Natural organic matter in Washington, D.C. drinking water | Cadmus Group / U.S. EPA | 2006 |
+| Residual hydrogen peroxide in advanced oxidation processes | WateReuse Foundation (WRT 04-019) | 2005–2006 |
+| Effects of pH, corrosion inhibitors and blending on metal release | CDM Inc. | 2004–2006 |
+| Electrochemical treatment system for arsenic removal | AwwaRF (2827) | 2000–2002 |
+| Differential UV spectroscopy for on-line DBP monitoring | AwwaRF (2563) | 1999–2001 |
+| Long-path spectrometer for monitoring chlorination byproducts | NSF (DMI-9960701) | 2000 |
+| Adsorption/membrane filtration for mixed and tank wastes | U.S. DOE (DE-FG07-96ER62313) | 2000 |
+| Electrochemical reactions of halogenated species; dehalogenation | UW Royalty Research Fund (65-3459) | 2000 |
+| Isolation, fractionation and characterization of organic matter | AwwaRF | 1997–1999 |
+{:.proj-table}
