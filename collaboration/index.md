@@ -14,24 +14,26 @@ Our work is built on partnerships with research groups around the world. Hover o
 
 {::nomarkdown}
 <style>
-.collab-wrap{position:relative;max-width:1040px;margin:35px auto 10px;}
+.collab-wrap{position:relative;max-width:1040px;margin:30px auto 10px;}
 .collab-wrap img.collab-map{width:100%;display:block;}
 .collab-pin{position:absolute;transform:translate(-50%,-50%);cursor:pointer;outline:none;}
-.collab-pin .collab-star{display:block;font-size:21px;line-height:1;color:#FFC400;text-shadow:0 0 3px rgba(0,0,0,.6);transition:transform .15s ease;}
-.collab-pin:hover .collab-star,.collab-pin:focus .collab-star{transform:scale(1.5);}
-.collab-pin:hover,.collab-pin:focus{z-index:20;}
-.collab-pin .collab-card{position:absolute;left:50%;bottom:170%;transform:translateX(-50%);width:262px;padding:13px 15px;border-radius:12px;background:#fff;color:#222;box-shadow:0 6px 26px rgba(0,0,0,.3);opacity:0;visibility:hidden;transition:opacity .15s ease;text-align:left;font-size:13px;line-height:1.45;z-index:20;}
-.collab-pin:hover .collab-card,.collab-pin:focus .collab-card{opacity:1;visibility:visible;}
-.collab-card .cc-crest{display:block;max-height:44px;max-width:150px;width:auto;margin:0 auto 10px;object-fit:contain;}
-.collab-card .cc-name{display:block;font-weight:700;font-size:14px;margin-bottom:1px;}
-.collab-card .cc-meta{display:block;color:#666;margin-bottom:7px;font-size:12px;}
-.collab-card .cc-person{display:block;margin-bottom:3px;}
-.collab-card .cc-person a{margin-left:5px;color:#2a6ebb;text-decoration:none;}
-.collab-card .cc-focus{display:block;color:#444;margin-top:6px;}
+.collab-pin .collab-star{display:block;font-size:20px;line-height:1;color:#FFC400;filter:drop-shadow(0 1px 2px rgba(0,0,0,.55));transition:transform .18s cubic-bezier(.34,1.56,.64,1);}
+.collab-pin:hover .collab-star,.collab-pin:focus .collab-star{transform:scale(1.55);color:#FFB300;}
+.collab-pin:hover,.collab-pin:focus{z-index:30;}
+.collab-pin .collab-card{position:absolute;left:50%;bottom:185%;transform:translateX(-50%) translateY(6px);width:264px;padding:15px 16px 14px;border-radius:14px;background:#fff;color:#1f2530;box-shadow:0 10px 30px rgba(0,0,0,.28);opacity:0;visibility:hidden;transition:opacity .16s ease,transform .16s ease;text-align:left;font-size:13px;line-height:1.5;z-index:30;}
+.collab-pin:hover .collab-card,.collab-pin:focus .collab-card{opacity:1;visibility:visible;transform:translateX(-50%) translateY(0);}
+.collab-card::after{content:"";position:absolute;top:100%;left:50%;transform:translateX(-50%);border:8px solid transparent;border-top-color:#fff;}
+.collab-card .cc-crest{display:block;max-height:46px;max-width:150px;width:auto;margin:2px auto 12px;object-fit:contain;}
+.collab-card .cc-name{display:block;font-weight:700;font-size:14.5px;line-height:1.3;margin-bottom:2px;}
+.collab-card .cc-meta{display:block;color:#7a828e;margin-bottom:9px;font-size:11.5px;letter-spacing:.02em;text-transform:uppercase;}
+.collab-card .cc-person{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-bottom:5px;font-weight:600;font-size:13px;}
+.collab-card .cc-person a{display:inline-flex;align-items:center;justify-content:center;width:23px;height:23px;border-radius:50%;background:#eef2f7;color:#2a6ebb;font-size:11px;text-decoration:none;transition:background .12s,color .12s,transform .12s;}
+.collab-card .cc-person a:hover{background:#2a6ebb;color:#fff;transform:translateY(-1px);}
+.collab-card .cc-focus{display:block;color:#5a616c;margin-top:9px;padding-top:9px;border-top:1px solid #eef0f3;font-size:12.5px;}
 @media (max-width:700px){
-  .collab-pin .collab-star{font-size:16px;}
-  .collab-pin .collab-card{width:200px;font-size:12px;}
-  .collab-card .cc-crest{max-height:34px;max-width:120px;}
+  .collab-pin .collab-star{font-size:15px;}
+  .collab-pin .collab-card{width:206px;font-size:12px;}
+  .collab-card .cc-crest{max-height:36px;max-width:120px;}
 }
 </style>
 
@@ -187,10 +189,13 @@ Our work is built on partnerships with research groups around the world. Hover o
 
 {::nomarkdown}
 <style>
-.collab-table{width:100%;max-width:960px;margin:0 auto;table-layout:fixed;}
-.collab-table th:nth-child(1),.collab-table td:nth-child(1){width:30%;}
+.collab-table{width:100%;max-width:960px;margin:0 auto;table-layout:fixed;border-collapse:collapse;font-size:0.95em;}
+.collab-table th:nth-child(1),.collab-table td:nth-child(1){width:32%;}
 .collab-table th:nth-child(2),.collab-table td:nth-child(2){width:26%;}
-.collab-table th:nth-child(3),.collab-table td:nth-child(3){width:44%;}
+.collab-table th:nth-child(3),.collab-table td:nth-child(3){width:42%;}
+.collab-table th{text-align:left;background:rgba(128,128,128,.14);font-weight:700;}
+.collab-table tbody tr:hover{background:rgba(128,128,128,.06);}
+.collab-table td,.collab-table th{vertical-align:top;}
 </style>
 {:/}
 
