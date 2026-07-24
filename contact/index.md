@@ -20,9 +20,9 @@ nav:
   include link.html
   type="phone"
   icon=""
-  text="+1 (206) 228-2476"
+  text="+1 (206) 543-2394"
   tooltip=""
-  link="+12062282476"
+  link="+12065432394"
   style="button"
 %}
 {:.center}
