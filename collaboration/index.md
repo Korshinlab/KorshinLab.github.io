@@ -198,22 +198,23 @@ Our work is built on partnerships with research groups around the world. Hover o
 .collab-table tbody tr:hover{background:rgba(128,128,128,.06);}
 .collab-table td,.collab-table th{vertical-align:top;}
 .collab-table td:last-child{color:#5a616c;}
+.collab-table .cc-loc{display:block;color:#7a828e;font-size:0.86em;font-weight:400;margin-top:3px;}
 </style>
 {:/}
 
 | Institution | Collaborator(s) | Research focus |
 | --- | --- | --- |
-| **Peking University** — Beijing, China | [Mingquan Yan](https://scholar.google.com/citations?user=neZKJlEAAAAJ) | Chromophoric dissolved organic matter; water treatment |
-| **University of Catania** — Italy | [Paolo Roccaro](https://www.dicar.unict.it/faculty/paolo.roccaro); [Federico Vagliasindi](https://www.dicar.unict.it/faculty/federico.vagliasindi) | Disinfection byproducts; water-quality monitoring |
-| **University of Salerno** — Italy | [Vincenzo Naddeo](https://scholar.google.com/citations?user=U4zI1E8AAAAJ) | Membrane processes; wastewater treatment |
-| **University of Naples Federico II** — Italy | [Massimiliano Fabbricino](https://scholar.google.com/citations?user=5gLsOqkAAAAJ) | Water treatment; marine organic matter |
-| **Université Paris Cité / IPGP (CNRS)** — France | [Marc Benedetti](https://scholar.google.com/citations?user=xleOQL8AAAAJ) | Marine organic matter; trace metals |
-| **Nanjing University** — China | [Wentao Li](https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html) | Advanced oxidation; water-quality monitoring |
-| **Tsinghua University (Shenzhen)** — China | [Manjie Li](https://scholar.google.com/citations?user=K4DoU34AAAAJ) | Drinking water quality; pipe corrosion |
-| **Sichuan University** — Chengdu, China | [Hongguang Guo](https://scholar.google.com/citations?user=ptHVn3sAAAAJ) | Advanced oxidation; pharmaceutical contaminants |
-| **Tamkang University** — Taipei, Taiwan | [Chi-Wang Li](https://scholar.google.com/citations?user=pMFl67wAAAAJ) | Membrane and adsorption processes |
-| **Kyungpook National University** — South Korea | [Kwangho Choo](https://scholar.google.com/citations?user=CCHw5e4AAAAJ) | Membrane water and wastewater treatment |
-| **Khalifa University** — Abu Dhabi, UAE | [Shadi Hasan](https://scholar.google.com/citations?user=_jx8HgIAAAAJ) | Membrane processes; wastewater treatment |
-| **Lehman College, CUNY** — New York, USA | [Yuemei Ye](https://scholar.google.com/citations?user=S5Q8YKcAAAAJ) | Disinfection byproducts; differential UV spectroscopy; PFAS |
-| **Kazan Nat'l Research Technological University** — Russia | — | Quantum-chemical modeling; electrochemical analysis |
+| **Peking University**<br><span class="cc-loc">Beijing, China</span> | [Mingquan Yan](https://scholar.google.com/citations?user=neZKJlEAAAAJ) | Chromophoric dissolved organic matter; water treatment |
+| **University of Catania**<br><span class="cc-loc">Catania, Italy</span> | [Paolo Roccaro](https://www.dicar.unict.it/faculty/paolo.roccaro); [Federico Vagliasindi](https://www.dicar.unict.it/faculty/federico.vagliasindi) | Disinfection byproducts; water-quality monitoring |
+| **University of Salerno**<br><span class="cc-loc">Fisciano, Italy</span> | [Vincenzo Naddeo](https://scholar.google.com/citations?user=U4zI1E8AAAAJ) | Membrane processes; wastewater treatment |
+| **University of Naples Federico II**<br><span class="cc-loc">Naples, Italy</span> | [Massimiliano Fabbricino](https://scholar.google.com/citations?user=5gLsOqkAAAAJ) | Water treatment; marine organic matter |
+| **Université Paris Cité / IPGP (CNRS)**<br><span class="cc-loc">Paris, France</span> | [Marc Benedetti](https://scholar.google.com/citations?user=xleOQL8AAAAJ) | Marine organic matter; trace metals |
+| **Nanjing University**<br><span class="cc-loc">Nanjing, China</span> | [Wentao Li](https://hjxy.nju.edu.cn/szdw/hjgcx/zpfjs/20230410/i242309.html) | Advanced oxidation; water-quality monitoring |
+| **Tsinghua University (Shenzhen)**<br><span class="cc-loc">Shenzhen, China</span> | [Manjie Li](https://scholar.google.com/citations?user=K4DoU34AAAAJ) | Drinking water quality; pipe corrosion |
+| **Sichuan University**<br><span class="cc-loc">Chengdu, China</span> | [Hongguang Guo](https://scholar.google.com/citations?user=ptHVn3sAAAAJ) | Advanced oxidation; pharmaceutical contaminants |
+| **Tamkang University**<br><span class="cc-loc">Taipei, Taiwan</span> | [Chi-Wang Li](https://scholar.google.com/citations?user=pMFl67wAAAAJ) | Membrane and adsorption processes |
+| **Kyungpook National University**<br><span class="cc-loc">Daegu, South Korea</span> | [Kwangho Choo](https://scholar.google.com/citations?user=CCHw5e4AAAAJ) | Membrane water and wastewater treatment |
+| **Khalifa University**<br><span class="cc-loc">Abu Dhabi, UAE</span> | [Shadi Hasan](https://scholar.google.com/citations?user=_jx8HgIAAAAJ) | Membrane processes; wastewater treatment |
+| **Lehman College, CUNY**<br><span class="cc-loc">New York, USA</span> | [Yuemei Ye](https://scholar.google.com/citations?user=S5Q8YKcAAAAJ) | Disinfection byproducts; differential UV spectroscopy; PFAS |
+| **Kazan Nat'l Research Technological University**<br><span class="cc-loc">Kazan, Russia</span> | — | Quantum-chemical modeling; electrochemical analysis |
 {:.collab-table}
