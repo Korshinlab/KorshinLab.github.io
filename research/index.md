@@ -16,7 +16,7 @@ We develop engineering, electrochemical, and spectroscopic approaches to treat a
 
 ### Removal of arsenic and co-occurring contaminants from landfill leachate and landfill gas condensate
 
-Landfill leachate and gas condensate carry arsenic together with a suite of co-occurring contaminants that conventional treatment removes poorly. We develop and test treatment trains — notably microelectrolysis and electrochemical oxidation — that capture arsenic and its companions, and we resolve the mechanisms controlling their removal so the processes can be scaled and operated reliably.
+Landfill leachate and gas condensate carry arsenic together with a suite of co-occurring contaminants that conventional treatment removes poorly. We develop and test treatment trains — notably microelectrolysis and electrochemical reduction — that capture arsenic and its companions, and we resolve the mechanisms controlling their removal so the processes can be scaled and operated reliably.
 {:style="max-width:800px;margin:0 auto 0.8em;text-align:left;"}
 
 **Led by** [Annapaola Panico]({{ '/members/panico.html' | relative_url }}) and [Lucas Munson]({{ '/members/munson.html' | relative_url }})
