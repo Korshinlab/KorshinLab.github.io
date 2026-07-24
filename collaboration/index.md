@@ -193,7 +193,7 @@ Our work is built on partnerships with research groups around the world. Hover o
 .collab-table th:nth-child(1),.collab-table td:nth-child(1){width:32%;}
 .collab-table th:nth-child(2),.collab-table td:nth-child(2){width:26%;}
 .collab-table th:nth-child(3),.collab-table td:nth-child(3){width:42%;}
-.collab-table th{text-align:left;background:rgba(128,128,128,.14);font-weight:700;}
+.collab-table th{text-align:center;background:rgba(128,128,128,.14);font-weight:700;}
 .collab-table tbody tr:hover{background:rgba(128,128,128,.06);}
 .collab-table td,.collab-table th{vertical-align:top;}
 </style>
