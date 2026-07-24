@@ -1,7 +1,7 @@
 ---
 name: Ivette Pinochet Troncoso
 image: images/team/pinochet.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 20
 ---

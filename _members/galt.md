@@ -1,7 +1,7 @@
 ---
 name: Mcbride Galt
 image: images/team/galt.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 18
 ---

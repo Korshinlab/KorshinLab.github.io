@@ -1,7 +1,7 @@
 ---
 name: Geneva Bernsten
 image: images/team/bernsten.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 9
 ---

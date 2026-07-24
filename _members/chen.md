@@ -1,7 +1,7 @@
 ---
 name: Yuhan Chen
 image: images/team/chen.jpg
-description: Alumni · Visiting Student
+description: Visiting Student
 role: alumni
 order: 12
 ---

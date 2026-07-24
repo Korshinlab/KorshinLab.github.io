@@ -1,7 +1,7 @@
 ---
 name: Sam Walters
 image: images/team/walters.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 17
 ---

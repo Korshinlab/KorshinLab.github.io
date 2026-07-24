@@ -1,7 +1,7 @@
 ---
 name: Wanyu Mao
 image: images/team/mao.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 11
 ---

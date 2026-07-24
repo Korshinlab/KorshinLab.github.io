@@ -1,7 +1,7 @@
 ---
 name: Aminda Benkel (Cheney-Irgens)
 image: images/team/benkel.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 19
 ---

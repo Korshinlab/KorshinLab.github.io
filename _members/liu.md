@@ -1,7 +1,7 @@
 ---
 name: Siqi Liu
 image: images/team/liu.jpg
-description: Alumni · Visiting Student
+description: Visiting Student
 role: alumni
 order: 14
 ---

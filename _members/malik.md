@@ -1,7 +1,7 @@
 ---
 name: Surbhi Malik
 image: images/team/malik.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 16
 ---

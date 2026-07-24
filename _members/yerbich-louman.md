@@ -1,7 +1,7 @@
 ---
 name: Zachary (Yak) Yerbich-Louman
 image: images/team/yerbich-louman.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 10
 ---

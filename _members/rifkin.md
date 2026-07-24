@@ -1,7 +1,7 @@
 ---
 name: Gabe Rifkin
 image: images/team/rifkin.jpg
-description: Alumni · MS
+description: MS
 role: alumni
 order: 21
 ---

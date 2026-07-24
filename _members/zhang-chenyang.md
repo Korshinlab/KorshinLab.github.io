@@ -1,7 +1,7 @@
 ---
 name: Chenyang Zhang
 image: images/team/zhang-chenyang.jpg
-description: Alumni · Visiting Student
+description: Visiting Student
 role: alumni
 order: 15
 ---
