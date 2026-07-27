@@ -1,6 +1,6 @@
 ---
 name: Lauren Ouyang
-image: images/placeholder.svg
+image: images/team/ouyang.jpg
 description: High School Student
 role: highschool
 order: 1
