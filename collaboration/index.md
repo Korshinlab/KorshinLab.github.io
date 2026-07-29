@@ -1,5 +1,5 @@
 ---
-title: Collaboration
+title: Collaborations
 nav:
   order: 5
   tooltip: Our partners and collaborators

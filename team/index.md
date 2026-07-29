@@ -70,7 +70,7 @@ nav:
 
 {% include section.html %}
 
-## Former Members
+## Former Group Members
 {:.center}
 
 {%
