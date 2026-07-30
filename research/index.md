@@ -16,6 +16,10 @@ We develop engineering, electrochemical, and spectroscopic approaches to treat a
 
 ### Removal of arsenic and co-occurring contaminants from landfill leachate and landfill gas condensate
 
+{::nomarkdown}
+<img src="{{ 'images/research/project1.jpg' | relative_url }}" alt="Arsenic removal from landfill leachate and gas condensate" style="display:block;width:100%;max-width:620px;margin:6px auto 22px;border-radius:6px;" />
+{:/}
+
 Landfill leachate and gas condensate carry arsenic together with a suite of co-occurring contaminants that conventional treatment removes poorly. We develop and test treatment trains — notably microelectrolysis and electrochemical reduction — that capture arsenic and its companions, and we resolve the mechanisms controlling their removal so the processes can be scaled and operated reliably.
 {:style="max-width:800px;margin:0 auto 0.8em;text-align:left;"}
 
@@ -27,6 +31,10 @@ Landfill leachate and gas condensate carry arsenic together with a suite of co-o
 
 ### Cycling of arsenic and antimony in renewable natural gas operations
 
+{::nomarkdown}
+<img src="{{ 'images/research/project2.jpg' | relative_url }}" alt="Cycling of arsenic and antimony in renewable natural gas operations" style="display:block;width:100%;max-width:620px;margin:6px auto 22px;border-radius:6px;" />
+{:/}
+
 Recovering renewable natural gas from landfills mobilizes arsenic and antimony through a series of transformations that remain poorly understood. Using X-ray absorption spectroscopy (XANES/EXAFS), quantum-chemical modeling, and targeted experiments, we map how these elements partition between gas, condensate, and solid phases — with particular attention to the role of sulfur in organometallic cycling — to identify where they can be intercepted.
 {:style="max-width:800px;margin:0 auto 0.8em;text-align:left;"}
 
@@ -37,6 +45,10 @@ Recovering renewable natural gas from landfills mobilizes arsenic and antimony t
 {:style="max-width:800px;margin:0 auto 1.4em;text-align:left;font-size:0.92em;"}
 
 ### Effects of rising seawater levels on the integrity of subsurface infrastructure
+
+{::nomarkdown}
+<img src="{{ 'images/research/project3.jpg' | relative_url }}" alt="Effects of rising seawater levels on subsurface infrastructure" style="display:block;width:100%;max-width:620px;margin:6px auto 22px;border-radius:6px;" />
+{:/}
 
 Rising sea levels are driving saline water into the soils and groundwater surrounding buried pipes, foundations, and other subsurface infrastructure. We examine how these shifting geochemical conditions affect corrosion and material integrity, and what they imply for the long-term resilience of coastal infrastructure.
 {:style="max-width:800px;margin:0 auto 0.8em;text-align:left;"}
