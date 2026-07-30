@@ -34,12 +34,13 @@ Our current thrust centers on **renewable natural gas (RNG)** and the environmen
 [Our research](research)
 {:.center}
 
-{%
-  include gallery.html
-  image1="images/action/mainpage.jpg"
-  link1="research"
-  tooltip1="Simplified pathway of arsenic methylation and volatilization"
-  image2="images/research/dma_removal_mechanism.png"
-  link2="research"
-  tooltip2="Proposed DMA removal mechanism in the ZVI/PAC system"
-%}
+{::nomarkdown}
+<div style="display:flex;flex-wrap:wrap;gap:30px;justify-content:center;align-items:center;margin:40px 0;">
+  <a href="{{ '/research' | relative_url }}" data-tooltip="Simplified pathway of arsenic methylation and volatilization" style="flex:1 1 320px;max-width:470px;">
+    <img src="{{ 'images/action/mainpage.jpg' | relative_url }}" alt="Simplified pathway of arsenic methylation and volatilization" style="width:100%;height:240px;object-fit:contain;" />
+  </a>
+  <a href="{{ '/research' | relative_url }}" data-tooltip="Proposed DMA removal mechanism in the ZVI/PAC system" style="flex:1 1 320px;max-width:470px;">
+    <img src="{{ 'images/research/dma_removal_mechanism.png' | relative_url }}" alt="Proposed DMA removal mechanism in the ZVI/PAC system" style="width:100%;height:240px;object-fit:contain;" />
+  </a>
+</div>
+{:/}
