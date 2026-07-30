@@ -19,33 +19,31 @@ Beyond the laboratory, our PI Gregory Korshin is an accomplished artist. A selec
   margin:0;
   flex:0 1 380px;
   max-width:430px;
-  padding:13px;
-  border-radius:3px;
-  background:linear-gradient(135deg,#a56d36 0%,#6a4120 30%,#7d4d26 55%,#442a11 100%);
+  padding:20px;
+  border-radius:4px;
+  background:linear-gradient(135deg,#946230 0%,#5c3819 38%,#7c4c25 63%,#472b12 100%);
   box-shadow:
-    0 16px 38px rgba(0,0,0,.52),
-    inset 4px 4px 5px rgba(255,255,255,.32),
-    inset -5px -5px 9px rgba(0,0,0,.62),
-    inset 0 0 0 1px rgba(0,0,0,.45);
+    0 20px 42px rgba(0,0,0,.44),
+    inset 0 0 0 2px rgba(0,0,0,.38),
+    inset 3px 3px 4px rgba(255,255,255,.16),
+    inset -3px -3px 6px rgba(0,0,0,.45);
   transition:transform .18s ease, box-shadow .18s ease;
 }
 .art-frame:hover{
   transform:translateY(-4px);
-  box-shadow:0 24px 50px rgba(0,0,0,.58),inset 4px 4px 5px rgba(255,255,255,.32),inset -5px -5px 9px rgba(0,0,0,.62),inset 0 0 0 1px rgba(0,0,0,.45);
+  box-shadow:0 26px 52px rgba(0,0,0,.5),inset 0 0 0 2px rgba(0,0,0,.38),inset 3px 3px 4px rgba(255,255,255,.16),inset -3px -3px 6px rgba(0,0,0,.45);
 }
 .art-frame .art-mat{
   display:block;
-  padding:14px;
-  background:#f4efe2;
-  box-shadow:
-    inset 3px 3px 7px rgba(0,0,0,.42),
-    inset -1px -1px 3px rgba(255,255,255,.5);
+  padding:18px;
+  background:#f5f0e4;
+  box-shadow:inset 0 0 11px rgba(0,0,0,.26);
 }
 .art-frame img{display:block;width:100%;height:auto;}
 @media (max-width:520px){
   .art-wall{gap:30px;}
-  .art-frame{padding:10px;}
-  .art-frame .art-mat{padding:10px;}
+  .art-frame{padding:13px;}
+  .art-frame .art-mat{padding:11px;}
 }
 </style>
 
