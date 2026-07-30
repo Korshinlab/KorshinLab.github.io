@@ -2,14 +2,34 @@
 title: Opportunities
 nav:
   order: 7
-  tooltip: Join us!
+  tooltip: Join us and get in touch
 ---
 
-# <i class="fas fa-door-open"></i>Current Opportunities
+# <i class="fas fa-door-open"></i>Opportunities
 
-We are committed to building an inclusive, supportive research community and welcome students from all backgrounds, including those historically underrepresented in engineering and the sciences.
+{%
+  include link.html
+  type="email"
+  icon=""
+  text="korshin@uw.edu"
+  tooltip=""
+  link="korshin@uw.edu"
+  style="button"
+%}
+{%
+  include link.html
+  type="phone"
+  icon=""
+  text="+1 (206) 543-2394"
+  tooltip=""
+  link="+12065432394"
+  style="button"
+%}
+{:.center}
 
-We have open opportunities for students interested in environmental engineering, water and wastewater treatment, environmental chemistry, and electrochemistry. Please reach out to discuss your interests—we look forward to meeting you and learning together!
+The Korshin Laboratory is part of the [Department of Civil & Environmental Engineering](https://www.ce.washington.edu/) at the [University of Washington](https://www.washington.edu/) in Seattle. We are always glad to hear from prospective students, postdoctoral researchers, and collaborators—the best way to reach us is by email.
+
+We are committed to building an inclusive, supportive research community and welcome students from all backgrounds, including those historically underrepresented in engineering and the sciences. We have open opportunities for students interested in environmental engineering, water and wastewater treatment, environmental chemistry, and electrochemistry.
 
 {% include section.html %}
 
@@ -53,3 +73,11 @@ We are happy to support prospective postdoctoral researchers in developing fello
 _Deadlines and eligibility change year to year—please confirm details on each program's website before applying._
 
 {% include section.html %}
+
+### <i class="fas fa-mail-bulk"></i>Mailing Address
+
+Department of Civil & Environmental Engineering
+University of Washington
+More Hall, Box 352700
+Seattle, WA 98195
+{:.center}
