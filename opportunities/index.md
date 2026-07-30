@@ -7,6 +7,10 @@ nav:
 
 # <i class="fas fa-door-open"></i>Opportunities
 
+The Korshin Laboratory is part of the [Department of Civil & Environmental Engineering](https://www.ce.washington.edu/) at the [University of Washington](https://www.washington.edu/) in Seattle. We are always glad to hear from prospective students, postdoctoral researchers, and collaborators—the best way to reach us is by email.
+
+We are committed to building an inclusive, supportive research community and welcome students from all backgrounds, including those historically underrepresented in engineering and the sciences. We have open opportunities for students interested in environmental engineering, water and wastewater treatment, environmental chemistry, and electrochemistry.
+
 {%
   include link.html
   type="email"
@@ -26,10 +30,6 @@ nav:
   style="button"
 %}
 {:.center}
-
-The Korshin Laboratory is part of the [Department of Civil & Environmental Engineering](https://www.ce.washington.edu/) at the [University of Washington](https://www.washington.edu/) in Seattle. We are always glad to hear from prospective students, postdoctoral researchers, and collaborators—the best way to reach us is by email.
-
-We are committed to building an inclusive, supportive research community and welcome students from all backgrounds, including those historically underrepresented in engineering and the sciences. We have open opportunities for students interested in environmental engineering, water and wastewater treatment, environmental chemistry, and electrochemistry.
 
 {% include section.html %}
 
