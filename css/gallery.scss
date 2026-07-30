@@ -18,8 +18,18 @@
   }
 
   &[data-style="square"] {
+    grid-gap: 16px;
+
     .gallery_item {
       position: relative;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.14);
+      transition: transform 0.15s ease;
+
+      &:hover {
+        transform: translateY(-3px);
+      }
 
       &:before {
         content: "";

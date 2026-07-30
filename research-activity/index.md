@@ -23,6 +23,7 @@ We design and build custom electrochemical and advanced reduction reactors to tr
 
 {%
   include gallery.html
+  style="square"
   image1="images/reactors/reactor1.jpg"
   tooltip1="Reactor development in the Korshin Lab"
   image2="images/reactors/reactor2.jpg"
@@ -39,6 +40,7 @@ We design and build custom electrochemical and advanced reduction reactors to tr
 
 {%
   include gallery.html
+  style="square"
   image1="images/team/group.jpg"
   tooltip1="Our team in the field"
   image2="images/action/selfie.jpg"
