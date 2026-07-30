@@ -1,7 +1,7 @@
 ---
 title: Opportunities
 nav:
-  order: 6
+  order: 7
   tooltip: Join us!
 ---
 

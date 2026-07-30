@@ -2,7 +2,7 @@
 title: Research Activity
 nav:
   order: 4
-  tooltip: Lab news, photos, and artwork
+  tooltip: Lab news and photos
 ---
 
 # <i class="fas fa-microscope"></i>Research Activity
@@ -52,18 +52,4 @@ We design and build custom electrochemical and advanced reduction reactors to tr
   image7="images/lablife/lab5.jpg"
   image8="images/lablife/lab6.jpg"
   image9="images/lablife/lab8.jpg"
-%}
-
-{% include section.html %}
-
-## <i class="fas fa-palette"></i>Art Gallery
-
-Beyond the laboratory, our group has an artistic side. A selection of paintings and other artwork is shown here.
-
-{%
-  include gallery.html
-  image1="images/art/art1.jpg"
-  tooltip1="Artwork by Gregory Korshin"
-  image2="images/art/art2.jpg"
-  tooltip2="Artwork by Gregory Korshin"
 %}

@@ -20,4 +20,4 @@ Gregory is a Professor of Civil and Environmental Engineering at the University 
 
 A central thread of his work is understanding the formation of disinfection byproducts during chlorination, the degradation of organic contaminants in advanced oxidation processes, and the corrosion of materials in water distribution systems. He is also known for pioneering the use of UV and fluorescence spectroscopy to track water quality in real time, work that continues to inform how utilities safeguard drinking water.
 
-Beyond the laboratory, Gregory is an accomplished artist. The same eye for color and light that shapes his spectroscopic research carries into his artwork — a selection of his pieces is shown in our [art gallery]({{ '/research-activity' | relative_url }}).
+Beyond the laboratory, Gregory is an accomplished artist. The same eye for color and light that shapes his spectroscopic research carries into his artwork — a selection of his pieces is shown on our [art page]({{ '/art' | relative_url }}).
