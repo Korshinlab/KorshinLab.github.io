@@ -9,6 +9,26 @@ nav:
 
 {% include section.html %}
 
+## <i class="fas fa-camera"></i>Lab Life
+
+{%
+  include gallery.html
+  style="square"
+  image1="images/team/group.jpg"
+  tooltip1="Our team in the field"
+  image2="images/action/selfie.jpg"
+  tooltip2="Sampling trip with the group"
+  image3="images/lablife/lab1.jpg"
+  image4="images/lablife/lab2.jpg"
+  image5="images/lablife/lab3.jpg"
+  image6="images/lablife/lab4.jpg"
+  image7="images/lablife/lab5.jpg"
+  image8="images/lablife/lab6.jpg"
+  image9="images/lablife/lab8.jpg"
+%}
+
+{% include section.html %}
+
 ## <i class="fas fa-bullhorn"></i>Lab News
 
 Updates from the group — new papers, awards, conferences, and people joining or moving on.
@@ -32,24 +52,4 @@ We design and build custom electrochemical and advanced reduction reactors to tr
   tooltip3="Reactor development in the Korshin Lab"
   image4="images/reactors/reactor4.jpg"
   tooltip4="Reactor development in the Korshin Lab"
-%}
-
-{% include section.html %}
-
-## <i class="fas fa-camera"></i>Lab Life
-
-{%
-  include gallery.html
-  style="square"
-  image1="images/team/group.jpg"
-  tooltip1="Our team in the field"
-  image2="images/action/selfie.jpg"
-  tooltip2="Sampling trip with the group"
-  image3="images/lablife/lab1.jpg"
-  image4="images/lablife/lab2.jpg"
-  image5="images/lablife/lab3.jpg"
-  image6="images/lablife/lab4.jpg"
-  image7="images/lablife/lab5.jpg"
-  image8="images/lablife/lab6.jpg"
-  image9="images/lablife/lab8.jpg"
 %}
