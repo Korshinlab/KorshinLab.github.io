@@ -48,6 +48,9 @@ We design and build custom electrochemical and advanced reduction reactors to tr
   image5="images/lablife/lab3.jpg"
   image6="images/lablife/lab4.jpg"
   image7="images/lablife/lab5.jpg"
+  image8="images/lablife/lab6.jpg"
+  image9="images/lablife/lab7.jpg"
+  image10="images/lablife/lab8.jpg"
 %}
 
 {% include section.html %}
