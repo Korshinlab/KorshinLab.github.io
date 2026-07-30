@@ -1,7 +1,7 @@
 ---
 title: Art
 nav:
-  order: 6
+  order: 5
   tooltip: Artwork by Gregory Korshin
 ---
 

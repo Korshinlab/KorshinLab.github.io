@@ -1,7 +1,7 @@
 ---
 title: Collaborations
 nav:
-  order: 5
+  order: 6
   tooltip: Our partners and collaborators
 ---
 
