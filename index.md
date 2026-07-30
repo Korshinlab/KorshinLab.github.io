@@ -36,9 +36,9 @@ Our current thrust centers on **renewable natural gas (RNG)** and the environmen
 
 {%
   include gallery.html
-  image1="images/action/selfie.jpg"
-  link1="team"
-  tooltip1="Meet our team"
+  image1="images/action/mainpage.jpg"
+  link1="research"
+  tooltip1="Simplified pathway of arsenic methylation and volatilization"
   image2="images/research/dma_removal_mechanism.png"
   link2="research"
   tooltip2="Proposed DMA removal mechanism in the ZVI/PAC system"
